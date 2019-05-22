@@ -1,0 +1,73 @@
+{% extends "bootstrap/base.html" %}
+{% import 'bootstrap/wtf.html' as wtf %}
+
+{% block title %}
+    {% if title %}Metamova - {{ title }}{% else %}Metamova - The Language of Innovation{% endif %}
+{% endblock %}
+
+{% block navbar %}
+    <nav class="navbar navbar-default">
+        <!--<div class="container">-->
+        <div id="rec93065921">
+            <div style="background-color: rgba(242,0,250,0.20); " data-bgcolor-hex="#f200fa" data-bgcolor-rgba="rgba(242,0,250,0.20)" data-navmarker="nav93065921marker" data-appearoffset="" data-bgopacity-two="60" data-menushadow="" data-bgopacity="0.20" data-bgcolor-rgba-afterscroll="rgba(242,0,250,0.60)" data-menu-items-align="right" data-menu="yes">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="" style="color:#ffffff;">
+                        <div style="color:#ffffff;">
+                            METAMOVA
+                        </div>
+                    </a>
+                </div>
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav">
+                        <li><a href="" style="color:#ffffff;font-weight:600;">GlosExtractor</a></li>
+                    </ul>
+
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            <a href="" style="color:#ffffff;font-weight:600;text-transform:uppercase;" data-menu-item-number="1">
+                                About
+                            </a>
+                        </li>
+                        <li>
+                            <a href="" style="color:#ffffff;font-weight:600;text-transform:uppercase;" data-menu-item-number="2">
+                                What We Do
+                            </a>
+                        </li>
+                        <li>
+                            <a href="" style="color:#ffffff;font-weight:600;text-transform:uppercase;" data-menu-item-number="3">
+                                Partners
+                            </a>
+                        </li>
+                        <li>
+                            <a href="" style="color:#ffffff;font-weight:600;text-transform:uppercase;" data-menu-item-number="4">
+                                Jobs
+                            </a>
+                        </li>
+                        <li>
+                            <a href="" style="color:#ffffff;font-weight:600;text-transform:uppercase;" data-menu-item-number="5">
+                                Contact Us
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+{% endblock %}
+
+{% block content %}
+
+    <h1>Want to get in touch?</h1>
+    <div class="row">
+        <div class="col-md-4">
+            {{ wtf.quick_form(form) }}
+        </div>
+    </div>
+
+{% endblock %}

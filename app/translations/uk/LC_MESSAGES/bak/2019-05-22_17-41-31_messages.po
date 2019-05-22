@@ -1,0 +1,736 @@
+# Tatar translations for PROJECT.
+# Copyright (C) 2019 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2019-05-22 12:02+0300\n"
+"PO-Revision-Date: 2019-05-22 17:12+0300\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: uk\n"
+"Language-Team: tt <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: app/templates/metamova.html:11
+msgid "meta.keywords"
+msgstr ""
+
+#: app/templates/metamova.html:13
+msgid "meta.description"
+msgstr ""
+
+#: app/templates/metamova.html:17
+msgid "page_title"
+msgstr ""
+
+#: app/templates/metamova.html:68
+msgid "nav.item_1"
+msgstr ""
+
+#: app/templates/metamova.html:71
+msgid "nav.item_2"
+msgstr ""
+
+#: app/templates/metamova.html:74
+msgid "nav.item_3"
+msgstr ""
+
+#: app/templates/metamova.html:77
+msgid "nav.item_4"
+msgstr ""
+
+#: app/templates/metamova.html:80
+msgid "nav.item_5"
+msgstr ""
+
+#: app/templates/metamova.html:83
+msgid "nav.item_6"
+msgstr ""
+
+#: app/templates/metamova.html:86
+msgid "nav.item_7"
+msgstr ""
+
+#: app/templates/metamova.html:105
+msgid "header_title"
+msgstr ""
+
+#: app/templates/metamova.html:108
+msgid "header_description"
+msgstr ""
+
+#: app/templates/metamova.html:113
+msgid "header_button"
+msgstr ""
+
+#: app/templates/metamova.html:134
+msgid "hero_title"
+msgstr ""
+
+#: app/templates/metamova.html:135
+msgid "hero_description"
+msgstr ""
+
+#: app/templates/metamova.html:141
+msgid "services.title1"
+msgstr ""
+
+#: app/templates/metamova.html:142
+msgid "services.sub1"
+msgstr ""
+
+#: app/templates/metamova.html:143
+msgid "services.description1"
+msgstr ""
+
+#: app/templates/metamova.html:150
+msgid "services.title2"
+msgstr ""
+
+#: app/templates/metamova.html:151
+msgid "services.sub2"
+msgstr ""
+
+#: app/templates/metamova.html:152
+msgid "services.description2"
+msgstr ""
+
+#: app/templates/metamova.html:159
+msgid "services.title3"
+msgstr ""
+
+#: app/templates/metamova.html:160
+msgid "services.sub3"
+msgstr ""
+
+#: app/templates/metamova.html:161
+msgid "services.description3"
+msgstr ""
+
+#: app/templates/metamova.html:177
+msgid "about.tab1"
+msgstr ""
+
+#: app/templates/metamova.html:180
+msgid "about.tab2"
+msgstr ""
+
+#: app/templates/metamova.html:183
+msgid "about.tab3"
+msgstr ""
+
+#: app/templates/metamova.html:192
+msgid "about.title1"
+msgstr ""
+
+#: app/templates/metamova.html:193
+msgid "about.sub1"
+msgstr ""
+
+#: app/templates/metamova.html:194
+msgid "about.description1"
+msgstr ""
+
+#: app/templates/metamova.html:200
+msgid "about.service1_1"
+msgstr ""
+
+#: app/templates/metamova.html:206
+msgid "about.service2_1"
+msgstr ""
+
+#: app/templates/metamova.html:212
+msgid "about.service3_1"
+msgstr ""
+
+#: app/templates/metamova.html:231
+msgid "about.title2"
+msgstr ""
+
+#: app/templates/metamova.html:232
+msgid "about.sub2"
+msgstr ""
+
+#: app/templates/metamova.html:233
+msgid "about.description2"
+msgstr ""
+
+#: app/templates/metamova.html:252
+msgid "about.title3"
+msgstr ""
+
+#: app/templates/metamova.html:253
+msgid "about.sub3"
+msgstr ""
+
+#: app/templates/metamova.html:254
+msgid "about.description3"
+msgstr ""
+
+#: app/templates/metamova.html:258
+msgid "about.adv1_3"
+msgstr ""
+
+#: app/templates/metamova.html:262
+msgid "about.adv2_3"
+msgstr ""
+
+#: app/templates/metamova.html:266
+msgid "about.adv3_3"
+msgstr ""
+
+#: app/templates/metamova.html:299
+msgid "process.title"
+msgstr ""
+
+#: app/templates/metamova.html:300
+msgid "process.description"
+msgstr ""
+
+#: app/templates/metamova.html:309
+msgid "process.step1_num"
+msgstr ""
+
+#: app/templates/metamova.html:310
+msgid "process.step1_title"
+msgstr ""
+
+#: app/templates/metamova.html:311
+msgid "process.step1_description"
+msgstr ""
+
+#: app/templates/metamova.html:321
+msgid "process.step2_num"
+msgstr ""
+
+#: app/templates/metamova.html:322
+msgid "process.step2_title"
+msgstr ""
+
+#: app/templates/metamova.html:323
+msgid "process.step2_description"
+msgstr ""
+
+#: app/templates/metamova.html:333
+msgid "process.step3_num"
+msgstr ""
+
+#: app/templates/metamova.html:334
+msgid "process.step3_title"
+msgstr ""
+
+#: app/templates/metamova.html:335
+msgid "process.step3_description"
+msgstr ""
+
+#: app/templates/metamova.html:344
+msgid "process.step4_num"
+msgstr ""
+
+#: app/templates/metamova.html:345
+msgid "process.step4_title"
+msgstr ""
+
+#: app/templates/metamova.html:346
+msgid "process.step4_description"
+msgstr ""
+
+#: app/templates/metamova.html:370
+msgid "portfolio.title"
+msgstr ""
+
+#: app/templates/metamova.html:371
+msgid "portfolio.description"
+msgstr ""
+
+#: app/templates/metamova.html:383
+msgid "portfolio.cat1"
+msgstr ""
+
+#: app/templates/metamova.html:384
+msgid "portfolio.cat2"
+msgstr ""
+
+#: app/templates/metamova.html:385
+msgid "portfolio.cat3"
+msgstr ""
+
+#: app/templates/metamova.html:386
+msgid "portfolio.cat4"
+msgstr ""
+
+#: app/templates/metamova.html:401
+msgid "portfolio.proj1_type"
+msgstr ""
+
+#: app/templates/metamova.html:402
+msgid "portfolio.proj1_name"
+msgstr ""
+
+#: app/templates/metamova.html:417
+msgid "portfolio.proj2_type"
+msgstr ""
+
+#: app/templates/metamova.html:418
+msgid "portfolio.proj2_name"
+msgstr ""
+
+#: app/templates/metamova.html:433
+msgid "portfolio.proj3_type"
+msgstr ""
+
+#: app/templates/metamova.html:434
+msgid "portfolio.proj3_name"
+msgstr ""
+
+#: app/templates/metamova.html:449
+msgid "portfolio.proj4_type"
+msgstr ""
+
+#: app/templates/metamova.html:450
+msgid "portfolio.proj4_name"
+msgstr ""
+
+#: app/templates/metamova.html:465
+msgid "portfolio.proj5_type"
+msgstr ""
+
+#: app/templates/metamova.html:466
+msgid "portfolio.proj5_name"
+msgstr ""
+
+#: app/templates/metamova.html:481
+msgid "portfolio.proj6_type"
+msgstr ""
+
+#: app/templates/metamova.html:482
+msgid "portfolio.proj6_name"
+msgstr ""
+
+#: app/templates/metamova.html:497
+msgid "portfolio.proj7_type"
+msgstr ""
+
+#: app/templates/metamova.html:498
+msgid "portfolio.proj7_name"
+msgstr ""
+
+#: app/templates/metamova.html:513
+msgid "portfolio.proj8_type"
+msgstr ""
+
+#: app/templates/metamova.html:514
+msgid "portfolio.proj8_name"
+msgstr ""
+
+#: app/templates/metamova.html:551
+msgid "adv1_title"
+msgstr ""
+
+#: app/templates/metamova.html:552
+msgid "adv1_description"
+msgstr ""
+
+#: app/templates/metamova.html:558
+msgid "adv2_title"
+msgstr ""
+
+#: app/templates/metamova.html:559
+msgid "adv2_description"
+msgstr ""
+
+#: app/templates/metamova.html:565
+msgid "adv3_title"
+msgstr ""
+
+#: app/templates/metamova.html:566
+msgid "adv3_description"
+msgstr ""
+
+#: app/templates/metamova.html:591
+msgid "team.title"
+msgstr ""
+
+#: app/templates/metamova.html:592
+msgid "team.description"
+msgstr ""
+
+#: app/templates/metamova.html:612
+msgid "team.member1_name"
+msgstr ""
+
+#: app/templates/metamova.html:613
+msgid "team.member1_title"
+msgstr ""
+
+#: app/templates/metamova.html:633
+msgid "team.member2_name"
+msgstr ""
+
+#: app/templates/metamova.html:634
+msgid "team.member2_title"
+msgstr ""
+
+#: app/templates/metamova.html:654
+msgid "team.member3_name"
+msgstr ""
+
+#: app/templates/metamova.html:655
+msgid "team.member3_title"
+msgstr ""
+
+#: app/templates/metamova.html:675
+msgid "team.member4_name"
+msgstr ""
+
+#: app/templates/metamova.html:676
+msgid "team.member4_title"
+msgstr ""
+
+#: app/templates/metamova.html:696
+msgid "team.member5_name"
+msgstr ""
+
+#: app/templates/metamova.html:697
+msgid "team.member5_title"
+msgstr ""
+
+#: app/templates/metamova.html:719
+msgid "feedback.title"
+msgstr ""
+
+#: app/templates/metamova.html:720
+msgid "feedback.description"
+msgstr ""
+
+#: app/templates/metamova.html:728
+msgid "feedback.mesage1.text"
+msgstr ""
+
+#: app/templates/metamova.html:734
+msgid "feedback.mesage1.author"
+msgstr ""
+
+#: app/templates/metamova.html:735
+msgid "feedback.mesage1.author_title"
+msgstr ""
+
+#: app/templates/metamova.html:743
+msgid "feedback.mesage2.text"
+msgstr ""
+
+#: app/templates/metamova.html:749
+msgid "feedback.mesage2.author"
+msgstr ""
+
+#: app/templates/metamova.html:750
+msgid "feedback.mesage2.author_title"
+msgstr ""
+
+#: app/templates/metamova.html:758
+msgid "feedback.mesage3.text"
+msgstr ""
+
+#: app/templates/metamova.html:764
+msgid "feedback.mesage3.author"
+msgstr ""
+
+#: app/templates/metamova.html:765
+msgid "feedback.mesage3.author_title"
+msgstr ""
+
+#: app/templates/metamova.html:773
+msgid "feedback.mesage4.text"
+msgstr ""
+
+#: app/templates/metamova.html:779
+msgid "feedback.mesage4.author"
+msgstr ""
+
+#: app/templates/metamova.html:780
+msgid "feedback.mesage4.author_title"
+msgstr ""
+
+#: app/templates/metamova.html:804
+msgid "pricing.title"
+msgstr ""
+
+#: app/templates/metamova.html:805
+msgid "pricing.description"
+msgstr ""
+
+#: app/templates/metamova.html:815
+msgid "pricing.service1.title"
+msgstr ""
+
+#: app/templates/metamova.html:819
+msgid "pricing.service1.price"
+msgstr ""
+
+#: app/templates/metamova.html:824
+msgid "pricing.service1.what_you_get1"
+msgstr ""
+
+#: app/templates/metamova.html:825
+msgid "pricing.service1.what_you_get2"
+msgstr ""
+
+#: app/templates/metamova.html:826
+msgid "pricing.service1.what_you_get3"
+msgstr ""
+
+#: app/templates/metamova.html:827
+msgid "pricing.service1.what_you_get4"
+msgstr ""
+
+#: app/templates/metamova.html:828
+msgid "pricing.service1.what_you_get5"
+msgstr ""
+
+#: app/templates/metamova.html:834
+msgid "pricing.service1.buy_button"
+msgstr ""
+
+#: app/templates/metamova.html:843
+msgid "pricing.service2.title"
+msgstr ""
+
+#: app/templates/metamova.html:847
+msgid "pricing.service2.price"
+msgstr ""
+
+#: app/templates/metamova.html:852
+msgid "pricing.service2.what_you_get1"
+msgstr ""
+
+#: app/templates/metamova.html:853
+msgid "pricing.service2.what_you_get2"
+msgstr ""
+
+#: app/templates/metamova.html:854
+msgid "pricing.service2.what_you_get3"
+msgstr ""
+
+#: app/templates/metamova.html:855
+msgid "pricing.service2.what_you_get4"
+msgstr ""
+
+#: app/templates/metamova.html:856
+msgid "pricing.service2.what_you_get5"
+msgstr ""
+
+#: app/templates/metamova.html:862
+msgid "pricing.service2.buy_button"
+msgstr ""
+
+#: app/templates/metamova.html:872
+msgid "pricing.service3.title"
+msgstr ""
+
+#: app/templates/metamova.html:876
+msgid "pricing.service3.price"
+msgstr ""
+
+#: app/templates/metamova.html:881
+msgid "pricing.service3.what_you_get1"
+msgstr ""
+
+#: app/templates/metamova.html:882
+msgid "pricing.service3.what_you_get2"
+msgstr ""
+
+#: app/templates/metamova.html:883
+msgid "pricing.service3.what_you_get3"
+msgstr ""
+
+#: app/templates/metamova.html:884
+msgid "pricing.service3.what_you_get4"
+msgstr ""
+
+#: app/templates/metamova.html:885
+msgid "pricing.service3.what_you_get5"
+msgstr ""
+
+#: app/templates/metamova.html:891
+msgid "pricing.service3.buy_button"
+msgstr ""
+
+#: app/templates/metamova.html:900
+msgid "pricing.service4.title"
+msgstr ""
+
+#: app/templates/metamova.html:904
+msgid "pricing.service4.price"
+msgstr ""
+
+#: app/templates/metamova.html:909
+msgid "pricing.service4.what_you_get1"
+msgstr ""
+
+#: app/templates/metamova.html:910
+msgid "pricing.service4.what_you_get2"
+msgstr ""
+
+#: app/templates/metamova.html:911
+msgid "pricing.service4.what_you_get3"
+msgstr ""
+
+#: app/templates/metamova.html:912
+msgid "pricing.service4.what_you_get4"
+msgstr ""
+
+#: app/templates/metamova.html:913
+msgid "pricing.service4.what_you_get5"
+msgstr ""
+
+#: app/templates/metamova.html:919
+msgid "pricing.service4.buy_button"
+msgstr ""
+
+#: app/templates/metamova.html:947
+msgid "news.title"
+msgstr ""
+
+#: app/templates/metamova.html:948
+msgid "news.description"
+msgstr ""
+
+#: app/templates/metamova.html:959
+msgid "news.article1.authour"
+msgstr ""
+
+#: app/templates/metamova.html:960
+msgid "news.article1.date"
+msgstr ""
+
+#: app/templates/metamova.html:961
+msgid "news.article1.tag"
+msgstr ""
+
+#: app/templates/metamova.html:963
+msgid "news.article1.title"
+msgstr ""
+
+#: app/templates/metamova.html:964
+msgid "news.article1.description"
+msgstr ""
+
+#: app/templates/metamova.html:965
+msgid "news.article1.read_more"
+msgstr ""
+
+#: app/templates/metamova.html:979
+msgid "news.article2.authour"
+msgstr ""
+
+#: app/templates/metamova.html:980
+msgid "news.article2.date"
+msgstr ""
+
+#: app/templates/metamova.html:981
+msgid "news.article2.tag"
+msgstr ""
+
+#: app/templates/metamova.html:983
+msgid "news.article2.title"
+msgstr ""
+
+#: app/templates/metamova.html:984
+msgid "news.article2.description"
+msgstr ""
+
+#: app/templates/metamova.html:985
+msgid "news.article2.read_more"
+msgstr ""
+
+#: app/templates/metamova.html:999
+msgid "news.article3.authour"
+msgstr ""
+
+#: app/templates/metamova.html:1000
+msgid "news.article3.date"
+msgstr ""
+
+#: app/templates/metamova.html:1001
+msgid "news.article3.tag"
+msgstr ""
+
+#: app/templates/metamova.html:1003
+msgid "news.article3.title"
+msgstr ""
+
+#: app/templates/metamova.html:1004
+msgid "news.article3.description"
+msgstr ""
+
+#: app/templates/metamova.html:1005
+msgid "news.article3.read_more"
+msgstr ""
+
+#: app/templates/metamova.html:1027
+msgid "work_with_us.title"
+msgstr ""
+
+#: app/templates/metamova.html:1028
+msgid "work_with_us.cta"
+msgstr ""
+
+#: app/templates/metamova.html:1030
+msgid "work_with_us.button"
+msgstr ""
+
+#: app/templates/metamova.html:1051
+msgid "contact_us.title"
+msgstr ""
+
+#: app/templates/metamova.html:1052
+msgid "contact_us.description"
+msgstr ""
+
+#: app/templates/metamova.html:1057
+msgid "contact_us.contacts.title"
+msgstr ""
+
+#: app/templates/metamova.html:1058
+msgid "contact_us.contacts.description"
+msgstr ""
+
+#: app/templates/metamova.html:1062
+msgid "contact_us.contacts.phone.title"
+msgstr ""
+
+#: app/templates/metamova.html:1063
+msgid "contact_us.contacts.phone.text"
+msgstr ""
+
+#: app/templates/metamova.html:1069
+msgid "contact_us.contacts.email.title"
+msgstr ""
+
+#: app/templates/metamova.html:1070
+msgid "contact_us.contacts.email.text"
+msgstr ""
+
+#: app/templates/metamova.html:1076
+msgid "contact_us.contacts.address.title"
+msgstr ""
+
+#: app/templates/metamova.html:1077
+msgid "contact_us.contacts.address.text"
+msgstr ""
+
+#: app/templates/metamova.html:1114
+msgid "contact_us.contact_form.button_send"
+msgstr ""
+
+#: app/templates/metamova.html:1148
+msgid "footer.copyright"
+msgstr ""
+
