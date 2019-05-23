@@ -1,7 +1,10 @@
 .idea/
 *.pyc
 __pycache__/
-bak/
+app/static/css/bak/
+app/translations/uk/LC_MESSAGES/bak/
+json_strings/bak/
 node_modules/
 package-lock.json
 bak-*.html
+bak_*.pot
