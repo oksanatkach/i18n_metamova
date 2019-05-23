@@ -36,7 +36,7 @@ def export_strings(source='en', target=None):
             if message.id and message.id in for_tron.keys():
                 for_tron[message.id][target] = message.string
 
-    os.rename(app_path + '/json_strings/strings.json', app_path + '/json_strings/' + str(datetime.datetime.now()).replace(' ', '_').replace(':', '-')[:-7] + '_strings.json')
+    os.rename(app_path + '/json_strings/strings.json', app_path + '/json_strings/bak/' + str(datetime.datetime.now()).replace(' ', '_').replace(':', '-')[:-7] + '_strings.json')
     with open(app_path + '/json_strings/strings.json', 'w', encoding='utf-8') as outfile:
         json.dump(for_tron, outfile, ensure_ascii=False)
 
