@@ -36,8 +36,10 @@
 
 ---------------------------------------------------------------- */
 
-$main-color: #1A237E;
-$sub-color: #2576FD;
+$main-color: #FDAC25;
+/* $main-color: #FFFF00; */
+$sub-color: #FFFF00;
+/* $sub-color: #FDAC25; */
 $mobile-xs-screen: 480px;
 $tablet-sm-screen: 767px;
 $desk-md-screen: 991px;
@@ -511,6 +513,10 @@ a:hover{
 			color: #222;
 		}
 
+		.active{
+			color: $main-color !important;
+		}
+
 		.logo{
 			padding: 15px 0;
 			color: #111;
@@ -563,6 +569,7 @@ a:hover{
 			letter-spacing: 1px;
 			word-spacing: 2px;
 			animation-delay: .6s;
+			font-family: 'Proxima Nova';
 		}
 
 		p{
@@ -1151,7 +1158,7 @@ a:hover{
 			font-size: 35px;
 			border-radius: 50%;
 			border: 1px solid #eee;
-			color: $sub-color;
+			color: $main-color;
 			float: left;
 			position: relative;
 			transition: all .3s;

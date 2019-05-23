@@ -1,3 +1,7 @@
 .idea/
 *.pyc
-__pycache/
+__pycache__/
+bak/
+node_modules/
+package-lock.json
+bak-*.html

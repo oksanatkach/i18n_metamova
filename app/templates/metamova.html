@@ -20,6 +20,7 @@
 		<!-- Google Fonts -->
 		<link href="https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Rubik:300,400,500,700,900" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Proxima+Nova:300,400,500,700,900" rel="stylesheet">
 
 		<!-- Plugins -->
 		<link rel="stylesheet" href="{{ url_for('static', filename='css/plugins.css') }}" />
@@ -75,9 +76,9 @@
                   <li class="nav-item">
                     <a class="nav-link" href="#" data-scroll-nav="3">{{ _('nav.item_4') }}</a>
                   </li>
-			      <li class="nav-item">
-			        <a class="nav-link" href="#" data-scroll-nav="4">{{ _('nav.item_5') }}</a>
-			      </li>
+			      <!--<li class="nav-item">-->
+			        <!--<a class="nav-link" href="#" data-scroll-nav="4">{{ _('nav.item_5') }}</a>-->
+			      <!--</li>-->
 			      <li class="nav-item">
 			        <a class="nav-link" href="#" data-scroll-nav="5">{{ _('nav.item_6') }}</a>
 			      </li>
@@ -107,9 +108,9 @@
                             <p>{{ _('header_description') }}</p>
                         </div>
                     </div>
-                    <a href="#0" class="butn butn-light mt-30">
-                        <span>{{ _('header_button') }}</span>
-                    </a>
+                    <!--<a href="#0" class="butn butn-light mt-30">-->
+                        <!--<span>{{ _('header_button') }}</span>-->
+                    <!--</a>-->
                 </div>
     		</div>
 
@@ -794,6 +795,7 @@
         <!-- =====================================
         ==== Start Price -->
 
+        <!--
         <section class="price section-padding bg-gray pos-re" data-scroll-index="4">
             <div class="container">
                 <div class="row">
@@ -929,6 +931,8 @@
 
             <div class="curve curve-bottom"></div>
         </section>
+
+        -->
 
         <!-- End Price ====
         ======================================= -->
@@ -1089,22 +1093,22 @@
 
                                     <div class="col-md-6">
                                         <div class="form-group">
-                                            <input id="form_name" type="text" name="name" placeholder="Name" required="required">
+                                            <input id="form_name" type="text" name="name" placeholder="{{ _('contact_us.contact_form.name') }}" required="required">
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="form-group">
-                                            <input id="form_email" type="email" name="email" placeholder="Email" required="required">
+                                            <input id="form_email" type="email" name="email" placeholder="{{ _('contact_us.contact_form.email') }}" required="required">
                                         </div>
                                     </div>
                                     <div class="col-md-12">
                                         <div class="form-group">
-                                            <input id="form_subject" type="text" name="subject" placeholder="Subject">
+                                            <input id="form_subject" type="text" name="subject" placeholder="{{ _('contact_us.contact_form.subject') }}">
                                         </div>
                                     </div>
                                     <div class="col-md-12">
                                         <div class="form-group">
-                                            <textarea id="form_message" name="message" placeholder="Message" rows="4" required="required"></textarea>
+                                            <textarea id="form_message" name="message" placeholder="{{ _('contact_us.contact_form.message') }}" rows="4" required="required"></textarea>
                                         </div>
                                     </div>
 
@@ -1137,10 +1141,8 @@
 
                 <div class="social">
                     <a href="#0"><i class="fab fa-facebook-f"></i></a>
-                    <a href="#0"><i class="fab fa-twitter"></i></a>
                     <a href="#0"><i class="fab fa-linkedin-in"></i></a>
-                    <a href="#0"><i class="fab fa-behance"></i></a>
-                    <a href="#0"><i class="fab fa-pinterest-p"></i></a>
+                    <a href="#0"><i class="fab fa-github"></i></a>
                 </div>
 
                 <p>{{ _('footer.copyright') }}</p>

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-22 12:02+0300\n"
+"POT-Creation-Date: 2019-05-22 20:59+0300\n"
 "PO-Revision-Date: 2019-05-22 15:31+0300\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: pseudo\n"
@@ -18,719 +18,744 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
 
-#: app/templates/metamova.html:11
+#: app/templates/metamova.html:10
 msgid "meta.keywords"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:13
+#: app/templates/metamova.html:11
 msgid "meta.description"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:17
+#: app/templates/metamova.html:15
 msgid "page_title"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:68
+#: app/templates/metamova.html:67
 msgid "nav.item_1"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:71
+#: app/templates/metamova.html:70
 msgid "nav.item_2"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:74
+#: app/templates/metamova.html:73
 msgid "nav.item_3"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:77
+#: app/templates/metamova.html:76
 msgid "nav.item_4"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:80
+#: app/templates/metamova.html:79
 msgid "nav.item_5"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:83
+#: app/templates/metamova.html:82
 msgid "nav.item_6"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:86
+#: app/templates/metamova.html:85
 msgid "nav.item_7"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:105
+#: app/templates/metamova.html:104
 msgid "header_title"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:108
+#: app/templates/metamova.html:107
 msgid "header_description"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:113
+#: app/templates/metamova.html:111
 msgid "header_button"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:134
+#: app/templates/metamova.html:132
 msgid "hero_title"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:135
+#: app/templates/metamova.html:133
 msgid "hero_description"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:141
+#: app/templates/metamova.html:139
 msgid "services.title1"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:142
+#: app/templates/metamova.html:140
 msgid "services.sub1"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:143
+#: app/templates/metamova.html:141
 msgid "services.description1"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:150
+#: app/templates/metamova.html:148
 msgid "services.title2"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:151
+#: app/templates/metamova.html:149
 msgid "services.sub2"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:152
+#: app/templates/metamova.html:150
 msgid "services.description2"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:159
+#: app/templates/metamova.html:157
 msgid "services.title3"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:160
+#: app/templates/metamova.html:158
 msgid "services.sub3"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:161
+#: app/templates/metamova.html:159
 msgid "services.description3"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:177
+#: app/templates/metamova.html:175
 msgid "about.tab1"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:180
+#: app/templates/metamova.html:178
 msgid "about.tab2"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:183
+#: app/templates/metamova.html:181
 msgid "about.tab3"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:192
+#: app/templates/metamova.html:190
 msgid "about.title1"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:193
+#: app/templates/metamova.html:191
 msgid "about.sub1"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:194
+#: app/templates/metamova.html:192
 msgid "about.description1"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:200
+#: app/templates/metamova.html:198
 msgid "about.service1_1"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:206
+#: app/templates/metamova.html:204
 msgid "about.service2_1"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:212
+#: app/templates/metamova.html:210
 msgid "about.service3_1"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:231
+#: app/templates/metamova.html:229
 msgid "about.title2"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:232
+#: app/templates/metamova.html:230
 msgid "about.sub2"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:233
+#: app/templates/metamova.html:231
 msgid "about.description2"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:252
+#: app/templates/metamova.html:250
 msgid "about.title3"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:253
+#: app/templates/metamova.html:251
 msgid "about.sub3"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:254
+#: app/templates/metamova.html:252
 msgid "about.description3"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:258
+#: app/templates/metamova.html:256
 msgid "about.adv1_3"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:262
+#: app/templates/metamova.html:260
 msgid "about.adv2_3"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:266
+#: app/templates/metamova.html:264
 msgid "about.adv3_3"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:299
+#: app/templates/metamova.html:297
 msgid "process.title"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:300
+#: app/templates/metamova.html:298
 msgid "process.description"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:309
+#: app/templates/metamova.html:307
 msgid "process.step1_num"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:310
+#: app/templates/metamova.html:308
 msgid "process.step1_title"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:311
+#: app/templates/metamova.html:309
 msgid "process.step1_description"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:321
+#: app/templates/metamova.html:319
 msgid "process.step2_num"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:322
+#: app/templates/metamova.html:320
 msgid "process.step2_title"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:323
+#: app/templates/metamova.html:321
 msgid "process.step2_description"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:333
+#: app/templates/metamova.html:331
 msgid "process.step3_num"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:334
+#: app/templates/metamova.html:332
 msgid "process.step3_title"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:335
+#: app/templates/metamova.html:333
 msgid "process.step3_description"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:344
+#: app/templates/metamova.html:342
 msgid "process.step4_num"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:345
+#: app/templates/metamova.html:343
 msgid "process.step4_title"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:346
+#: app/templates/metamova.html:344
 msgid "process.step4_description"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:370
+#: app/templates/metamova.html:368
 msgid "portfolio.title"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:371
+#: app/templates/metamova.html:369
 msgid "portfolio.description"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:383
+#: app/templates/metamova.html:381
 msgid "portfolio.cat1"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:384
+#: app/templates/metamova.html:382
 msgid "portfolio.cat2"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:385
+#: app/templates/metamova.html:383
 msgid "portfolio.cat3"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:386
+#: app/templates/metamova.html:384
 msgid "portfolio.cat4"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:401
+#: app/templates/metamova.html:399
 msgid "portfolio.proj1_type"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:402
+#: app/templates/metamova.html:400
 msgid "portfolio.proj1_name"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:417
+#: app/templates/metamova.html:415
 msgid "portfolio.proj2_type"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:418
+#: app/templates/metamova.html:416
 msgid "portfolio.proj2_name"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:433
+#: app/templates/metamova.html:431
 msgid "portfolio.proj3_type"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:434
+#: app/templates/metamova.html:432
 msgid "portfolio.proj3_name"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:449
+#: app/templates/metamova.html:447
 msgid "portfolio.proj4_type"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:450
+#: app/templates/metamova.html:448
 msgid "portfolio.proj4_name"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:465
+#: app/templates/metamova.html:463
 msgid "portfolio.proj5_type"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:466
+#: app/templates/metamova.html:464
 msgid "portfolio.proj5_name"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:481
+#: app/templates/metamova.html:479
 msgid "portfolio.proj6_type"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:482
+#: app/templates/metamova.html:480
 msgid "portfolio.proj6_name"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:497
+#: app/templates/metamova.html:495
 msgid "portfolio.proj7_type"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:498
+#: app/templates/metamova.html:496
 msgid "portfolio.proj7_name"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:513
+#: app/templates/metamova.html:511
 msgid "portfolio.proj8_type"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:514
+#: app/templates/metamova.html:512
 msgid "portfolio.proj8_name"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:551
+#: app/templates/metamova.html:549
 msgid "adv1_title"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:552
+#: app/templates/metamova.html:550
 msgid "adv1_description"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:558
+#: app/templates/metamova.html:556
 msgid "adv2_title"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:559
+#: app/templates/metamova.html:557
 msgid "adv2_description"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:565
+#: app/templates/metamova.html:563
 msgid "adv3_title"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:566
+#: app/templates/metamova.html:564
 msgid "adv3_description"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:591
+#: app/templates/metamova.html:589
 msgid "team.title"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:592
+#: app/templates/metamova.html:590
 msgid "team.description"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:612
+#: app/templates/metamova.html:610
 msgid "team.member1_name"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:613
+#: app/templates/metamova.html:611
 msgid "team.member1_title"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:633
+#: app/templates/metamova.html:631
 msgid "team.member2_name"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:634
+#: app/templates/metamova.html:632
 msgid "team.member2_title"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:654
+#: app/templates/metamova.html:652
 msgid "team.member3_name"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:655
+#: app/templates/metamova.html:653
 msgid "team.member3_title"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:675
+#: app/templates/metamova.html:673
 msgid "team.member4_name"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:676
+#: app/templates/metamova.html:674
 msgid "team.member4_title"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:696
+#: app/templates/metamova.html:694
 msgid "team.member5_name"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:697
+#: app/templates/metamova.html:695
 msgid "team.member5_title"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:719
+#: app/templates/metamova.html:717
 msgid "feedback.title"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:720
+#: app/templates/metamova.html:718
 msgid "feedback.description"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:728
+#: app/templates/metamova.html:726
 msgid "feedback.mesage1.text"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:734
+#: app/templates/metamova.html:732
 msgid "feedback.mesage1.author"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:735
+#: app/templates/metamova.html:733
 msgid "feedback.mesage1.author_title"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:743
+#: app/templates/metamova.html:741
 msgid "feedback.mesage2.text"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:749
+#: app/templates/metamova.html:747
 msgid "feedback.mesage2.author"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:750
+#: app/templates/metamova.html:748
 msgid "feedback.mesage2.author_title"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:758
+#: app/templates/metamova.html:756
 msgid "feedback.mesage3.text"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:764
+#: app/templates/metamova.html:762
 msgid "feedback.mesage3.author"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:765
+#: app/templates/metamova.html:763
 msgid "feedback.mesage3.author_title"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:773
+#: app/templates/metamova.html:771
 msgid "feedback.mesage4.text"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:779
+#: app/templates/metamova.html:777
 msgid "feedback.mesage4.author"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:780
+#: app/templates/metamova.html:778
 msgid "feedback.mesage4.author_title"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:804
+#: app/templates/metamova.html:802
 msgid "pricing.title"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:805
+#: app/templates/metamova.html:803
 msgid "pricing.description"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:815
+#: app/templates/metamova.html:813
 msgid "pricing.service1.title"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:819
+#: app/templates/metamova.html:817
 msgid "pricing.service1.price"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:824
+#: app/templates/metamova.html:822
 msgid "pricing.service1.what_you_get1"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:825
+#: app/templates/metamova.html:823
 msgid "pricing.service1.what_you_get2"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:826
+#: app/templates/metamova.html:824
 msgid "pricing.service1.what_you_get3"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:827
+#: app/templates/metamova.html:825
 msgid "pricing.service1.what_you_get4"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:828
+#: app/templates/metamova.html:826
 msgid "pricing.service1.what_you_get5"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:834
+#: app/templates/metamova.html:832
 msgid "pricing.service1.buy_button"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:843
+#: app/templates/metamova.html:841
 msgid "pricing.service2.title"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:847
+#: app/templates/metamova.html:845
 msgid "pricing.service2.price"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:852
+#: app/templates/metamova.html:850
 msgid "pricing.service2.what_you_get1"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:853
+#: app/templates/metamova.html:851
 msgid "pricing.service2.what_you_get2"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:854
+#: app/templates/metamova.html:852
 msgid "pricing.service2.what_you_get3"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:855
+#: app/templates/metamova.html:853
 msgid "pricing.service2.what_you_get4"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:856
+#: app/templates/metamova.html:854
 msgid "pricing.service2.what_you_get5"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:862
+#: app/templates/metamova.html:860
 msgid "pricing.service2.buy_button"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:872
+#: app/templates/metamova.html:870
 msgid "pricing.service3.title"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:876
+#: app/templates/metamova.html:874
 msgid "pricing.service3.price"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:881
+#: app/templates/metamova.html:879
 msgid "pricing.service3.what_you_get1"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:882
+#: app/templates/metamova.html:880
 msgid "pricing.service3.what_you_get2"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:883
+#: app/templates/metamova.html:881
 msgid "pricing.service3.what_you_get3"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:884
+#: app/templates/metamova.html:882
 msgid "pricing.service3.what_you_get4"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:885
+#: app/templates/metamova.html:883
 msgid "pricing.service3.what_you_get5"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:891
+#: app/templates/metamova.html:889
 msgid "pricing.service3.buy_button"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:900
+#: app/templates/metamova.html:898
 msgid "pricing.service4.title"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:904
+#: app/templates/metamova.html:902
 msgid "pricing.service4.price"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:909
+#: app/templates/metamova.html:907
 msgid "pricing.service4.what_you_get1"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:910
+#: app/templates/metamova.html:908
 msgid "pricing.service4.what_you_get2"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:911
+#: app/templates/metamova.html:909
 msgid "pricing.service4.what_you_get3"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:912
+#: app/templates/metamova.html:910
 msgid "pricing.service4.what_you_get4"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:913
+#: app/templates/metamova.html:911
 msgid "pricing.service4.what_you_get5"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:919
+#: app/templates/metamova.html:917
 msgid "pricing.service4.buy_button"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:947
+#: app/templates/metamova.html:945
 msgid "news.title"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:948
+#: app/templates/metamova.html:946
 msgid "news.description"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:959
-msgid "news.article1.authour"
-msgstr "XXXXXXXXXX"
+#: app/templates/metamova.html:957
+msgid "news.article1.author"
+msgstr ""
 
-#: app/templates/metamova.html:960
+#: app/templates/metamova.html:958
 msgid "news.article1.date"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:961
+#: app/templates/metamova.html:959
 msgid "news.article1.tag"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:963
+#: app/templates/metamova.html:961
 msgid "news.article1.title"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:964
+#: app/templates/metamova.html:962
 msgid "news.article1.description"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:965
+#: app/templates/metamova.html:963
 msgid "news.article1.read_more"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:979
-msgid "news.article2.authour"
-msgstr "XXXXXXXXXX"
+#: app/templates/metamova.html:977
+msgid "news.article2.author"
+msgstr ""
 
-#: app/templates/metamova.html:980
+#: app/templates/metamova.html:978
 msgid "news.article2.date"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:981
+#: app/templates/metamova.html:979
 msgid "news.article2.tag"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:983
+#: app/templates/metamova.html:981
 msgid "news.article2.title"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:984
+#: app/templates/metamova.html:982
 msgid "news.article2.description"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:985
+#: app/templates/metamova.html:983
 msgid "news.article2.read_more"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:999
-msgid "news.article3.authour"
-msgstr "XXXXXXXXXX"
+#: app/templates/metamova.html:997
+msgid "news.article3.author"
+msgstr ""
 
-#: app/templates/metamova.html:1000
+#: app/templates/metamova.html:998
 msgid "news.article3.date"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:1001
+#: app/templates/metamova.html:999
 msgid "news.article3.tag"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:1003
+#: app/templates/metamova.html:1001
 msgid "news.article3.title"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:1004
+#: app/templates/metamova.html:1002
 msgid "news.article3.description"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:1005
+#: app/templates/metamova.html:1003
 msgid "news.article3.read_more"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:1027
+#: app/templates/metamova.html:1025
 msgid "work_with_us.title"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:1028
+#: app/templates/metamova.html:1026
 msgid "work_with_us.cta"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:1030
+#: app/templates/metamova.html:1028
 msgid "work_with_us.button"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:1051
+#: app/templates/metamova.html:1049
 msgid "contact_us.title"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:1052
+#: app/templates/metamova.html:1050
 msgid "contact_us.description"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:1057
+#: app/templates/metamova.html:1055
 msgid "contact_us.contacts.title"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:1058
+#: app/templates/metamova.html:1056
 msgid "contact_us.contacts.description"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:1062
+#: app/templates/metamova.html:1060
 msgid "contact_us.contacts.phone.title"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:1063
+#: app/templates/metamova.html:1061
 msgid "contact_us.contacts.phone.text"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:1069
+#: app/templates/metamova.html:1067
 msgid "contact_us.contacts.email.title"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:1070
+#: app/templates/metamova.html:1068
 msgid "contact_us.contacts.email.text"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:1076
+#: app/templates/metamova.html:1074
 msgid "contact_us.contacts.address.title"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:1077
+#: app/templates/metamova.html:1075
 msgid "contact_us.contacts.address.text"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:1114
+#: app/templates/metamova.html:1092
+msgid "contact_us.contact_form.name"
+msgstr "XXXXXXXXXX"
+
+#: app/templates/metamova.html:1097
+msgid "contact_us.contact_form.email"
+msgstr "XXXXXXXXXX"
+
+#: app/templates/metamova.html:1102
+msgid "contact_us.contact_form.subject"
+msgstr "XXXXXXXXXX"
+
+#: app/templates/metamova.html:1107
+msgid "contact_us.contact_form.message"
+msgstr "XXXXXXXXXX"
+
+#: app/templates/metamova.html:1112
 msgid "contact_us.contact_form.button_send"
 msgstr "XXXXXXXXXX"
 
-#: app/templates/metamova.html:1148
+#: app/templates/metamova.html:1146
 msgid "footer.copyright"
 msgstr "XXXXXXXXXX"
+
+#~ msgid "news.article1.authour"
+#~ msgstr "XXXXXXXXXX"
+
+#~ msgid "news.article2.authour"
+#~ msgstr "XXXXXXXXXX"
+
+#~ msgid "news.article3.authour"
+#~ msgstr "XXXXXXXXXX"
 
