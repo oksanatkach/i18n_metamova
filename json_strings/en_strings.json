@@ -1,0 +1,734 @@
+{
+  "meta.keywords": {
+    "en": "localization engineering internationalization i18n l10n computational linguistics natural language processing NLP data science language machine translation chatbot chatbots",
+    "uk": "HTML5 Template Coco onepage themeforest"
+  },
+  "meta.description": {
+    "en": "Metamova - Natural Language Processing and Localization Engineering, Innovation for Language Service Providers",
+    "uk": "Coco - Onepage Multi-Purpose HTML5 Template"
+  },
+  "page_title": {
+    "en": "Metamova – We Speak Innovation",
+    "uk": "Coco"
+  },
+  "nav.item_1": {
+    "en": "Home",
+    "uk": "Home"
+  },
+  "nav.item_2": {
+    "en": "Services",
+    "uk": "Services"
+  },
+  "nav.item_3": {
+    "en": "Projects",
+    "uk": "Portfolio"
+  },
+  "nav.item_4": {
+    "en": "Team",
+    "uk": "Team"
+  },
+  "nav.item_5": {
+    "en": "Price",
+    "uk": "Price"
+  },
+  "nav.item_6": {
+    "en": "Blog",
+    "uk": "Blog"
+  },
+  "nav.item_7": {
+    "en": "Contact",
+    "uk": "Contact"
+  },
+  "header_title": {
+    "en": "Metamova",
+    "uk": "Big Digital Agency"
+  },
+  "header_description": {
+    "en": "Your One-Stop No-Nonsense Language Innovation Hub",
+    "uk": "We are a passionate digital design agency that specializes in beautiful and easy-to-use digital design & web development services."
+  },
+  "header_button": {
+    "en": "Get Started",
+    "uk": "Get Started"
+  },
+  "hero_title": {
+    "en": "Your <span>Language Innovation</span> Hub",
+    "uk": "About Our <span>Creative</span> Agency"
+  },
+  "hero_description": {
+    "en": "A team of passionate linguists and developers bringing to you a data-focused approach to improve your work processes and leverage your language data to its fullest potential",
+    "uk": "Lorem Ipsum is simply dummy text of the printing and type setting industry when an unknown printer took a galley of type and scrambled it to make a type specimen book It has survived not only five centuries."
+  },
+  "services.title1": {
+    "en": "L10n and i18n",
+    "uk": "Web Design"
+  },
+  "services.sub1": {
+    "en": "Taking your web-services global?",
+    "uk": "Modern & Clean Design"
+  },
+  "services.description1": {
+    "en": "Full-cycle l10n and i18n services done correctly from the start",
+    "uk": "Lorem Ipsum is simply dummy text of the printing and type setting industry"
+  },
+  "services.title2": {
+    "en": "NLP",
+    "uk": "Development"
+  },
+  "services.sub2": {
+    "en": "Want to leverage your language data?",
+    "uk": "Web & Mobile Development"
+  },
+  "services.description2": {
+    "en": "We take the most out of latest Data Science achievements to equip you with custom machine translation and other cool NLP tools for taking your language business further",
+    "uk": "Lorem Ipsum is simply dummy text of the printing and type setting industry"
+  },
+  "services.title3": {
+    "en": "Engineering",
+    "uk": "Branding"
+  },
+  "services.sub3": {
+    "en": "Need custom software for your translation project?",
+    "uk": "Logo & Motion Design"
+  },
+  "services.description3": {
+    "en": "Developed by engineers with translators in mind",
+    "uk": "Lorem Ipsum is simply dummy text of the printing and type setting industry"
+  },
+  "about.tab1": {
+    "en": "About Us",
+    "uk": "About Us"
+  },
+  "about.tab2": {
+    "en": "Our Mission",
+    "uk": "Our Mission"
+  },
+  "about.tab3": {
+    "en": "Why Us?",
+    "uk": "Why Us?"
+  },
+  "about.title1": {
+    "en": "About Us",
+    "uk": "About Us"
+  },
+  "about.sub1": {
+    "en": "We Are Your Language Innovation Hub",
+    "uk": "We Are A Creative Agency"
+  },
+  "about.description1": {
+    "en": "We’re full service which means we’ve got you covered on design and content right through to digital.",
+    "uk": "We’re full service which means we’ve got you covered on design and content right through to digital."
+  },
+  "about.service1_1": {
+    "en": "Web Design",
+    "uk": "Web Design"
+  },
+  "about.service2_1": {
+    "en": "Branding",
+    "uk": "Branding"
+  },
+  "about.service3_1": {
+    "en": "Development",
+    "uk": "Development"
+  },
+  "about.title2": {
+    "en": "Our Mission",
+    "uk": "Our Mission"
+  },
+  "about.sub2": {
+    "en": "We Bring Gentle Innovation into the Language Industry",
+    "uk": "We Are A Creative Agency"
+  },
+  "about.description2": {
+    "en": "We’re full service which means</b> we’ve got you covered on design and content right through to digital. You’ll form a lasting relationship with us, <b>collaboration is central to</b> everything we do. <b>We’ll push you out of</b> your comfort zone from time, but this is where you’ll shine. Bottom line is we want you to succeed at Faculty.</p>\n                                            <p>You’ll form a lasting relationship with us, collaboration is central to everything we do. We’ll push you out of your comfort zone from time-to-time, but this is where you’ll shine. Bottom line is we want you to succeed at Faculty.",
+    "uk": "We’re full service which means</b> we’ve got you covered on design and content right through to digital. You’ll form a lasting relationship with us, <b>collaboration is central to</b> everything we do. <b>We’ll push you out of</b> your comfort zone from time, but this is where you’ll shine. Bottom line is we want you to succeed at Faculty.</p>\n                                            <p>You’ll form a lasting relationship with us, collaboration is central to everything we do. We’ll push you out of your comfort zone from time-to-time, but this is where you’ll shine. Bottom line is we want you to succeed at Faculty."
+  },
+  "about.title3": {
+    "en": "Why Choose Us?",
+    "uk": "Why Choose Us?"
+  },
+  "about.sub3": {
+    "en": "We Are A Creative Agency",
+    "uk": "We Are A Creative Agency"
+  },
+  "about.description3": {
+    "en": "We’re full service which means we’ve got you covered on design and content right through to digital.You’ll form a lasting relationship with us, collaboration is central to everything we do.",
+    "uk": "We’re full service which means we’ve got you covered on design and content right through to digital.You’ll form a lasting relationship with us, collaboration is central to everything we do."
+  },
+  "about.adv1_3": {
+    "en": "Perfect Design",
+    "uk": "Perfect Design"
+  },
+  "about.adv2_3": {
+    "en": "Retina Ready",
+    "uk": "Retina Ready"
+  },
+  "about.adv3_3": {
+    "en": "Friendly Support",
+    "uk": "Friendly Support"
+  },
+  "process.title": {
+    "en": "<span>Our</span> Process</h4>",
+    "uk": "<span>Our</span> Process</h4>"
+  },
+  "process.description": {
+    "en": "We are a passionate digital design agency that specializes in beautiful and easy-to-use digital design & web development services.",
+    "uk": "We are a passionate digital design agency that specializes in beautiful and easy-to-use digital design & web development services."
+  },
+  "process.step1_num": {
+    "en": "01",
+    "uk": "01"
+  },
+  "process.step1_title": {
+    "en": "We Observe",
+    "uk": "Ideas"
+  },
+  "process.step1_description": {
+    "en": "We spend time with your team to learn about your work processes",
+    "uk": "Nulla metus metus ullamcorper vel tincidunt sed euismod nibh Quisque volutpat"
+  },
+  "process.step2_num": {
+    "en": "02",
+    "uk": "02"
+  },
+  "process.step2_title": {
+    "en": "We Analyze",
+    "uk": "Planning"
+  },
+  "process.step2_description": {
+    "en": "We identify which parts can be optimized, and how we can use your data to save you time and money",
+    "uk": "Nulla metus metus ullamcorper vel tincidunt sed euismod nibh Quisque volutpat"
+  },
+  "process.step3_num": {
+    "en": "03",
+    "uk": "03"
+  },
+  "process.step3_title": {
+    "en": "We Create",
+    "uk": "Development"
+  },
+  "process.step3_description": {
+    "en": "We develop create solutions that are time- and cost-effective",
+    "uk": "Nulla metus metus ullamcorper vel tincidunt sed euismod nibh Quisque volutpat"
+  },
+  "process.step4_num": {
+    "en": "04",
+    "uk": "04"
+  },
+  "process.step4_title": {
+    "en": "We Iterate",
+    "uk": "Testing"
+  },
+  "process.step4_description": {
+    "en": "We identify main KPIs and observe them to verify that our solution is working or where it should be improved",
+    "uk": "Nulla metus metus ullamcorper vel tincidunt sed euismod nibh Quisque volutpat"
+  },
+  "portfolio.title": {
+    "en": "<span>Our</span> Projects",
+    "uk": "<span>Creative</span> Portfolio"
+  },
+  "portfolio.description": {
+    "en": "Your One-Stop No-Nonsense Language Innovation Hub",
+    "uk": "We are a passionate digital design agency that specializes in beautiful and easy-to-use digital design & web development services."
+  },
+  "portfolio.cat1": {
+    "en": "All",
+    "uk": "All"
+  },
+  "portfolio.cat2": {
+    "en": "Engineering",
+    "uk": "Brand"
+  },
+  "portfolio.cat3": {
+    "en": "L10n and i18n",
+    "uk": "Design"
+  },
+  "portfolio.cat4": {
+    "en": "NLP",
+    "uk": "Graphic"
+  },
+  "portfolio.proj1_type": {
+    "en": "Engineering",
+    "uk": "Logo | Branding"
+  },
+  "portfolio.proj1_name": {
+    "en": "Creative Web Design",
+    "uk": "Creative Web Design"
+  },
+  "portfolio.proj2_type": {
+    "en": "Logo | Branding",
+    "uk": "Logo | Branding"
+  },
+  "portfolio.proj2_name": {
+    "en": "Creative Web Design",
+    "uk": "Creative Web Design"
+  },
+  "portfolio.proj3_type": {
+    "en": "Logo | Branding",
+    "uk": "Logo | Branding"
+  },
+  "portfolio.proj3_name": {
+    "en": "Creative Web Design",
+    "uk": "Creative Web Design"
+  },
+  "portfolio.proj4_type": {
+    "en": "Logo | Branding",
+    "uk": "Logo | Branding"
+  },
+  "portfolio.proj4_name": {
+    "en": "Creative Web Design",
+    "uk": "Creative Web Design"
+  },
+  "portfolio.proj5_type": {
+    "en": "Logo | Branding",
+    "uk": "Logo | Branding"
+  },
+  "portfolio.proj5_name": {
+    "en": "Creative Web Design",
+    "uk": "Creative Web Design"
+  },
+  "portfolio.proj6_type": {
+    "en": "Logo | Branding",
+    "uk": "Logo | Branding"
+  },
+  "portfolio.proj6_name": {
+    "en": "Creative Web Design",
+    "uk": "Creative Web Design"
+  },
+  "portfolio.proj7_type": {
+    "en": "Logo | Branding",
+    "uk": "Logo | Branding"
+  },
+  "portfolio.proj7_name": {
+    "en": "Creative Web Design",
+    "uk": "Creative Web Design"
+  },
+  "portfolio.proj8_type": {
+    "en": "Logo | Branding",
+    "uk": "Logo | Branding"
+  },
+  "portfolio.proj8_name": {
+    "en": "Creative Web Design",
+    "uk": "Creative Web Design"
+  },
+  "adv1_title": {
+    "en": "Fully Responsive",
+    "uk": "Fully Responsive"
+  },
+  "adv1_description": {
+    "en": "Nulla metus ullamcorper vel tincidunt sed euismod nibh Quisque volutpat velit class aptent taciti sociosqu.",
+    "uk": "Nulla metus ullamcorper vel tincidunt sed euismod nibh Quisque volutpat velit class aptent taciti sociosqu."
+  },
+  "adv2_title": {
+    "en": "Clean & Modern Design",
+    "uk": "Clean & Modern Design"
+  },
+  "adv2_description": {
+    "en": "Nulla metus ullamcorper vel tincidunt sed euismod nibh Quisque volutpat velit class aptent taciti sociosqu.",
+    "uk": "Nulla metus ullamcorper vel tincidunt sed euismod nibh Quisque volutpat velit class aptent taciti sociosqu."
+  },
+  "adv3_title": {
+    "en": "Friendly Support",
+    "uk": "Friendly Support"
+  },
+  "adv3_description": {
+    "en": "Nulla metus ullamcorper vel tincidunt sed euismod nibh Quisque volutpat velit class aptent taciti sociosqu.",
+    "uk": "Nulla metus ullamcorper vel tincidunt sed euismod nibh Quisque volutpat velit class aptent taciti sociosqu."
+  },
+  "team.title": {
+    "en": "<span>Talent</span> Team",
+    "uk": "<span>Talent</span> Team"
+  },
+  "team.description": {
+    "en": "We are a passionate digital design agency that specializes in beautiful and easy-to-use digital design & web development services.",
+    "uk": "We are a passionate digital design agency that specializes in beautiful and easy-to-use digital design & web development services."
+  },
+  "team.member1_name": {
+    "en": "Oksana Tkach",
+    "uk": "Alex Smith"
+  },
+  "team.member1_title": {
+    "en": "CEO",
+    "uk": "Project Manager"
+  },
+  "team.member2_name": {
+    "en": "Elena Rudeshko",
+    "uk": "Alex Smith"
+  },
+  "team.member2_title": {
+    "en": "Advisor",
+    "uk": "Project Manager"
+  },
+  "team.member3_name": {
+    "en": "Vitalii Chaikovsky",
+    "uk": "Alex Smith"
+  },
+  "team.member3_title": {
+    "en": "Python Developer",
+    "uk": "Project Manager"
+  },
+  "team.member4_name": {
+    "en": "Yurii Skavinsky",
+    "uk": "Alex Smith"
+  },
+  "team.member4_title": {
+    "en": "Localization Engineer",
+    "uk": "Project Manager"
+  },
+  "team.member5_name": {
+    "en": "Anton Trushchenko",
+    "uk": "Alex Smith"
+  },
+  "team.member5_title": {
+    "en": "Localization Engineer",
+    "uk": "Project Manager"
+  },
+  "feedback.title": {
+    "en": "What Do <span>Clients</span> Say?",
+    "uk": "What Do <span>Clients</span> Say?"
+  },
+  "feedback.description": {
+    "en": "We are a passionate digital design agency that specializes in beautiful and easy-to-use digital design & web development services.",
+    "uk": "We are a passionate digital design agency that specializes in beautiful and easy-to-use digital design & web development services."
+  },
+  "feedback.mesage1.text": {
+    "en": "Lorem Ipsum is simply dummy text a galley of type and scrambled it to make a type specimen book.",
+    "uk": "Lorem Ipsum is simply dummy text a galley of type and scrambled it to make a type specimen book."
+  },
+  "feedback.mesage1.author": {
+    "en": "Alex Smith",
+    "uk": "Alex Smith"
+  },
+  "feedback.mesage1.author_title": {
+    "en": "Envato Customer",
+    "uk": "Envato Customer"
+  },
+  "feedback.mesage2.text": {
+    "en": "Lorem Ipsum is simply dummy text a galley of type and scrambled it to make a type specimen book.",
+    "uk": "Lorem Ipsum is simply dummy text a galley of type and scrambled it to make a type specimen book."
+  },
+  "feedback.mesage2.author": {
+    "en": "Alex Smith",
+    "uk": "Alex Smith"
+  },
+  "feedback.mesage2.author_title": {
+    "en": "Envato Customer",
+    "uk": "Envato Customer"
+  },
+  "feedback.mesage3.text": {
+    "en": "Lorem Ipsum is simply dummy text a galley of type and scrambled it to make a type specimen book.",
+    "uk": "Lorem Ipsum is simply dummy text a galley of type and scrambled it to make a type specimen book."
+  },
+  "feedback.mesage3.author": {
+    "en": "Alex Smith",
+    "uk": "Alex Smith"
+  },
+  "feedback.mesage3.author_title": {
+    "en": "Envato Customer",
+    "uk": "Envato Customer"
+  },
+  "feedback.mesage4.text": {
+    "en": "Lorem Ipsum is simply dummy text a galley of type and scrambled it to make a type specimen book.",
+    "uk": "Lorem Ipsum is simply dummy text a galley of type and scrambled it to make a type specimen book."
+  },
+  "feedback.mesage4.author": {
+    "en": "Alex Smith",
+    "uk": "Alex Smith"
+  },
+  "feedback.mesage4.author_title": {
+    "en": "Envato Customer",
+    "uk": "Envato Customer"
+  },
+  "pricing.title": {
+    "en": "Pricing <span>Table</span>",
+    "uk": "Pricing <span>Table</span>"
+  },
+  "pricing.description": {
+    "en": "We are a passionate digital design agency that specializes in beautiful and easy-to-use digital design & web development services.",
+    "uk": "We are a passionate digital design agency that specializes in beautiful and easy-to-use digital design & web development services."
+  },
+  "pricing.service1.title": {
+    "en": "Free",
+    "uk": "Free"
+  },
+  "pricing.service1.price": {
+    "en": "<h3><span>$</span>00</h3>\n                                        <span class=\"per\">/ Month</span>",
+    "uk": "<h3><span>$</span>00</h3>\n                                        <span class=\"per\">/ Month</span>"
+  },
+  "pricing.service1.what_you_get1": {
+    "en": "10 GB Disk Space",
+    "uk": "10 GB Disk Space"
+  },
+  "pricing.service1.what_you_get2": {
+    "en": "15 Domain Names",
+    "uk": "15 Domain Names"
+  },
+  "pricing.service1.what_you_get3": {
+    "en": "4 Email Address",
+    "uk": "4 Email Address"
+  },
+  "pricing.service1.what_you_get4": {
+    "en": "Enhanced Security",
+    "uk": "Enhanced Security"
+  },
+  "pricing.service1.what_you_get5": {
+    "en": "Unlimited Support",
+    "uk": "Unlimited Support"
+  },
+  "pricing.service1.buy_button": {
+    "en": "Purchase Now",
+    "uk": "Purchase Now"
+  },
+  "pricing.service2.title": {
+    "en": "Basic",
+    "uk": "Basic"
+  },
+  "pricing.service2.price": {
+    "en": "<h3><span>$</span>10</h3>\n                                        <span class=\"per\">/ Month</span>",
+    "uk": "<h3><span>$</span>10</h3>\n                                        <span class=\"per\">/ Month</span>"
+  },
+  "pricing.service2.what_you_get1": {
+    "en": "10 GB Disk Space",
+    "uk": "10 GB Disk Space"
+  },
+  "pricing.service2.what_you_get2": {
+    "en": "15 Domain Names",
+    "uk": "15 Domain Names"
+  },
+  "pricing.service2.what_you_get3": {
+    "en": "4 Email Address",
+    "uk": "4 Email Address"
+  },
+  "pricing.service2.what_you_get4": {
+    "en": "Enhanced Security",
+    "uk": "Enhanced Security"
+  },
+  "pricing.service2.what_you_get5": {
+    "en": "Unlimited Support",
+    "uk": "Unlimited Support"
+  },
+  "pricing.service2.buy_button": {
+    "en": "Purchase Now",
+    "uk": "Purchase Now"
+  },
+  "pricing.service3.title": {
+    "en": "Standard",
+    "uk": "Standard"
+  },
+  "pricing.service3.price": {
+    "en": "<h3><span>$</span>30</h3>\n                                        <span class=\"per\">/ Month</span>",
+    "uk": "<h3><span>$</span>30</h3>\n                                        <span class=\"per\">/ Month</span>"
+  },
+  "pricing.service3.what_you_get1": {
+    "en": "10 GB Disk Space",
+    "uk": "10 GB Disk Space"
+  },
+  "pricing.service3.what_you_get2": {
+    "en": "15 Domain Names",
+    "uk": "15 Domain Names"
+  },
+  "pricing.service3.what_you_get3": {
+    "en": "4 Email Address",
+    "uk": "4 Email Address"
+  },
+  "pricing.service3.what_you_get4": {
+    "en": "Enhanced Security",
+    "uk": "Enhanced Security"
+  },
+  "pricing.service3.what_you_get5": {
+    "en": "Unlimited Support",
+    "uk": "Unlimited Support"
+  },
+  "pricing.service3.buy_button": {
+    "en": "Purchase Now",
+    "uk": "Purchase Now"
+  },
+  "pricing.service4.title": {
+    "en": "Premium",
+    "uk": "Premium"
+  },
+  "pricing.service4.price": {
+    "en": "<h3><span>$</span>80</h3>\n                                        <span class=\"per\">/ Month</span>",
+    "uk": "<h3><span>$</span>80</h3>\n                                        <span class=\"per\">/ Month</span>"
+  },
+  "pricing.service4.what_you_get1": {
+    "en": "10 GB Disk Space",
+    "uk": "10 GB Disk Space"
+  },
+  "pricing.service4.what_you_get2": {
+    "en": "15 Domain Names",
+    "uk": "15 Domain Names"
+  },
+  "pricing.service4.what_you_get3": {
+    "en": "4 Email Address",
+    "uk": "4 Email Address"
+  },
+  "pricing.service4.what_you_get4": {
+    "en": "Enhanced Security",
+    "uk": "Enhanced Security"
+  },
+  "pricing.service4.what_you_get5": {
+    "en": "Unlimited Support",
+    "uk": "Unlimited Support"
+  },
+  "pricing.service4.buy_button": {
+    "en": "Purchase Now",
+    "uk": "Purchase Now"
+  },
+  "news.title": {
+    "en": "<span>Latest</span> News",
+    "uk": "<span>Latest</span> News"
+  },
+  "news.description": {
+    "en": "We are a passionate digital design agency that specializes in beautiful and easy-to-use digital design & web development services.",
+    "uk": "We are a passionate digital design agency that specializes in beautiful and easy-to-use digital design & web development services."
+  },
+  "news.article1.author": {
+    "en": "By : Oksana Tkach",
+    "uk": "By : Admin"
+  },
+  "news.article1.date": {
+    "en": "06 Aug 2017",
+    "uk": "06 Aug 2017"
+  },
+  "news.article1.tag": {
+    "en": "i18n",
+    "uk": "WordPress"
+  },
+  "news.article1.title": {
+    "en": "How To Internationalize Your Flask App Like a Champ",
+    "uk": "48 Best WordPress Themes"
+  },
+  "news.article1.description": {
+    "en": "Lorem Ipsum is simply dummy text of the printing and type setting industry. Lorem Ipsum has been the dummy text ever",
+    "uk": "Lorem Ipsum is simply dummy text of the printing and type setting industry. Lorem Ipsum has been the dummy text ever"
+  },
+  "news.article1.read_more": {
+    "en": "Read More",
+    "uk": "Read More"
+  },
+  "news.article2.author": {
+    "en": "By : Admin",
+    "uk": "By : Admin"
+  },
+  "news.article2.date": {
+    "en": "06 Aug 2017",
+    "uk": "06 Aug 2017"
+  },
+  "news.article2.tag": {
+    "en": "WordPress",
+    "uk": "WordPress"
+  },
+  "news.article2.title": {
+    "en": "48 Best WordPress Themes",
+    "uk": "48 Best WordPress Themes"
+  },
+  "news.article2.description": {
+    "en": "Lorem Ipsum is simply dummy text of the printing and type setting industry. Lorem Ipsum has been the dummy text ever",
+    "uk": "Lorem Ipsum is simply dummy text of the printing and type setting industry. Lorem Ipsum has been the dummy text ever"
+  },
+  "news.article2.read_more": {
+    "en": "Read More",
+    "uk": "Read More"
+  },
+  "news.article3.author": {
+    "en": "By : Admin",
+    "uk": "By : Admin"
+  },
+  "news.article3.date": {
+    "en": "06 Aug 2017",
+    "uk": "06 Aug 2017"
+  },
+  "news.article3.tag": {
+    "en": "WordPress",
+    "uk": "WordPress"
+  },
+  "news.article3.title": {
+    "en": "48 Best WordPress Themes",
+    "uk": "48 Best WordPress Themes"
+  },
+  "news.article3.description": {
+    "en": "Lorem Ipsum is simply dummy text of the printing and type setting industry. Lorem Ipsum has been the dummy text ever",
+    "uk": "Lorem Ipsum is simply dummy text of the printing and type setting industry. Lorem Ipsum has been the dummy text ever"
+  },
+  "news.article3.read_more": {
+    "en": "Read More",
+    "uk": "Read More"
+  },
+  "work_with_us.title": {
+    "en": "Want to work with us?",
+    "uk": "Want to work with us?"
+  },
+  "work_with_us.cta": {
+    "en": "Tell us about your project",
+    "uk": "Tell us about your project"
+  },
+  "work_with_us.button": {
+    "en": "Get Started",
+    "uk": "Get Started"
+  },
+  "contact_us.title": {
+    "en": "Get <span>In</span> Touch",
+    "uk": "Get <span>In</span> Touch"
+  },
+  "contact_us.description": {
+    "en": "We are a passionate digital design agency that specializes in beautiful and easy-to-use digital design & web development services.",
+    "uk": "We are a passionate digital design agency that specializes in beautiful and easy-to-use digital design & web development services."
+  },
+  "contact_us.contacts.title": {
+    "en": "Contact Us:",
+    "uk": "Contact Us :"
+  },
+  "contact_us.contacts.description": {
+    "en": "We work hard but not on the weekends",
+    "uk": "Nulla metus metus ullamcorper vel tincidunt sed euismod nibh Quisque volutpat"
+  },
+  "contact_us.contacts.phone.title": {
+    "en": "Phone: ",
+    "uk": "Phone : "
+  },
+  "contact_us.contacts.phone.text": {
+    "en": "+38 096 373 46 28",
+    "uk": "+20 010 251 789 18 , 251 789 18"
+  },
+  "contact_us.contacts.email.title": {
+    "en": "Email: ",
+    "uk": "Email : "
+  },
+  "contact_us.contacts.email.text": {
+    "en": "info@metamova.com",
+    "uk": "Coco_support@website.com"
+  },
+  "contact_us.contacts.address.title": {
+    "en": "Address: ",
+    "uk": "Address : "
+  },
+  "contact_us.contacts.address.text": {
+    "en": "Lviv, Ukraine",
+    "uk": "4655 Carter Street ,Olney, Illinois"
+  },
+  "contact_us.contact_form.name": {
+    "en": "Name",
+    "uk": "Name"
+  },
+  "contact_us.contact_form.email": {
+    "en": "Email",
+    "uk": "Email"
+  },
+  "contact_us.contact_form.subject": {
+    "en": "Subject",
+    "uk": "Subject"
+  },
+  "contact_us.contact_form.message": {
+    "en": "Message",
+    "uk": "Message"
+  },
+  "contact_us.contact_form.button_send": {
+    "en": "Send Message",
+    "uk": "Send Message"
+  },
+  "footer.copyright": {
+    "en": "&copy; 2019 Metamova. All Rights Reserved.",
+    "uk": "&copy; 2018 UI-ThemeZ. All Rights Reserved."
+  }
+}
