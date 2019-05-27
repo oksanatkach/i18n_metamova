@@ -1,0 +1,4 @@
+Message from: {{ form.name.data }}
+Email: {{ form.email.data }}
+Subject: {{ form.subject.data }}
+Message: {{ form.message.data }}
