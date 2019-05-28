@@ -1046,7 +1046,7 @@
         <!-- =====================================
         ==== Start Contact -->
 
-       <section class="contact section-padding" data-scroll-index="6">
+       <section class="contact section-padding" id="contact" data-scroll-index="6">
            <div class="container">
                <div class="row">
 
@@ -1084,22 +1084,32 @@
                     </div>
 
                     <div class="col-lg-7">
-                        <form class="form" id="contact-form" method="post" action="contact.php">
+                        <form class="form" action="{{ url_for('contact') }}" method="post">
+                            {{ form.hidden_tag() }}
 
                             <div class="messages"></div>
 
                             <div class="controls">
+                                {% with messages = get_flashed_messages(with_categories=True) %}
+                                    {% if messages %}
+                                        {% for category, message in messages %}
+                                            <div class="alert alert-{{ category }} alert-dismissible" role="alert">
+                                                {{ message }}  
+                                            </div>
+                                        {% endfor %}
+                                    {% endif %}
+                                {% endwith %}
 
                                 <div class="row">
 
                                     <div class="col-md-6">
                                         <div class="form-group">
-                                            <input id="form_name" type="text" name="name" placeholder="{{ _('contact_us.contact_form.name') }}" required="required">
+                                            <input id="form_name" type="text" name="name" placeholder="{{ _('contact_us.contact_form.name') }}" required>
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="form-group">
-                                            <input id="form_email" type="email" name="email" placeholder="{{ _('contact_us.contact_form.email') }}" required="required">
+                                            <input id="form_email" type="email" name="email" placeholder="{{ _('contact_us.contact_form.email') }}" required>
                                         </div>
                                     </div>
                                     <div class="col-md-12">
@@ -1109,7 +1119,7 @@
                                     </div>
                                     <div class="col-md-12">
                                         <div class="form-group">
-                                            <textarea id="form_message" name="message" placeholder="{{ _('contact_us.contact_form.message') }}" rows="4" required="required"></textarea>
+                                            <textarea id="form_message" name="message" placeholder="{{ _('contact_us.contact_form.message') }}" rows="4"></textarea>
                                         </div>
                                     </div>
 
