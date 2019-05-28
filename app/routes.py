@@ -4,6 +4,7 @@ from app.forms import ContactForm
 from flask_babel import force_locale as babel_force_locale
 from flask_mail import Message
 from app.email import send
+import os
 
 
 @app.route('/')
@@ -29,7 +30,7 @@ def pseudo():
 def contact():
 	form = ContactForm()
 	if form.validate_on_submit():
-		send('vitalik@metamova.com', 'send', form=form)
+		send(os.environ.get('RECIPIENT'), 'send', form=form)
 
 		flash("Thank you! We'll get to you shortly.", "success")
 		return redirect(url_for('index', _anchor='contact'))

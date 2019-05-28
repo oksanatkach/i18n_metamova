@@ -31,6 +31,7 @@
 	14 Contact
 	15 Footer
 	16 Responsive
+  17 Back to top Button
  
 
 ---------------------------------------------------------------- */
@@ -1207,3 +1208,32 @@ footer {
     line-height: 1.4; }
   .works .filtering span {
     padding: 5px 15px; } }
+
+/* ----------------------------------------------------------------
+   [ 17 Back to top Button ]
+-----------------------------------------------------------------*/
+
+#myBtn {
+    width: 40px;
+    line-height: 30px;
+    overflow: hidden;
+    z-index: 99;
+    display: none;
+    cursor: pointer;
+    -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+    position: fixed;
+    padding: 8px;
+    bottom: 30px;
+    border: none;
+    border-radius: 10px;
+    outline: none; 
+    right: 30px;
+    background-color: #e050ca;
+    color: #FFFFFF;
+    font-size: 25px;
+}
+#myBtn:hover {
+    background-color: #db0bea;
+    color: #FFFFFF;
+}

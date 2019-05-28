@@ -74,8 +74,6 @@ $(function() {
         });
     });
 
-
-
     // sections background image from data background
     var pageSection = $(".bg-img, section");
     pageSection.each(function(indx){
@@ -264,6 +262,22 @@ $(document).ready(function() {
         $('.owl-item').not('.cloned').eq(item).find('h1').addClass('animated fadeInRight');
         $('.owl-item').not('.cloned').eq(item).find('p').addClass('animated fadeInUp');
         $('.owl-item').not('.cloned').eq(item).find('.butn').addClass('animated zoomIn');
+    });
+
+    // When the user scrolls down from the top of the document, show the button
+    var btn = $('#myBtn');
+
+    $(window).scroll(function() {
+        if ($(window).scrollTop() > 300) {
+            btn.addClass('show');
+        } else {
+            btn.removeClass('show');
+        }
+    });
+
+    btn.on('click', function(e) {
+        e.preventDefault();
+        $('html, body').animate({scrollTop:0}, '300');
     });
 
 });
