@@ -136,7 +136,7 @@ a:hover {
       font-weight: 300; }
 
 [data-overlay-color] .section-head p {
-  color: #ccc; }
+  color: #FFFF00; }
 
 [data-overlay-color].process .icon {
   color: #fff !important; }
@@ -257,9 +257,6 @@ a:hover {
   opacity: 1;
   font-weight: 900; }
 
-.alert {
-  text-align: center;
-}
 /* ----------------------------------------------------------------
      [ End Basics ]
 -----------------------------------------------------------------*/
@@ -366,7 +363,7 @@ a:hover {
 
 .logo {
   padding: 15px 0;
-  width: 100px; }
+  width: 200px; }
 
 /* ----------------------------------------------------------------
      [ End Navbar ]
@@ -669,8 +666,7 @@ a:hover {
     position: absolute;
     width: 70%;
     right: -40%;
-    top: 15px;
-    opacity: .5; }
+    top: 15px; }
     .process .item img.tobotm {
       transform: rotateX(180deg); }
   .process .item.odd {
@@ -696,7 +692,7 @@ a:hover {
     height: 80px;
     line-height: 85px;
     border-radius: 50%;
-    border: 1px dashed #eee;
+    border: 1px dashed #fff;
     margin-bottom: 30px; }
   .process .item h3 {
     position: absolute;
@@ -882,7 +878,7 @@ a:hover {
     font-size: 16px;
     margin-bottom: 5px; }
   .team .item .info span {
-    color: #777;
+    color: #FFFF00;
     font-size: 13px;
     font-weight: 400; }
 
@@ -1053,7 +1049,8 @@ a:hover {
     margin-bottom: 10px; }
   .call-action h5 {
     font-weight: 400;
-    margin-bottom: 30px; }
+    margin-bottom: 30px;
+    color: #FFFF00; }
 
 /* ----------------------------------------------------------------
      [ End Call-action ]
@@ -1158,7 +1155,7 @@ footer {
     color: #FDAC25 !important; }
   .header {
     background-attachment: scroll !important;
-    background-position: 50% 0% !important; }
+    background-position: center !important; }
     .header .caption h4 {
       font-size: 30px; }
     .header .caption h1 {

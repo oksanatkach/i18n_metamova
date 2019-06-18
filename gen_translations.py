@@ -48,8 +48,9 @@ def import_strings(filename=None, source='en', target=None):
     else:
         from_tron = json.loads(open(app_path + '/json_strings/strings.json', 'r', encoding='utf-8').read())
 
+    template_str = StringIO(open('messages.pot', 'r', encoding='utf-8').read())
     # template_str = StringIO(open(app_path + '/messages.pot', 'r', encoding='utf-8').read())
-    template_str = StringIO(open(app_path + '\messages.pot', 'r', encoding='utf-8').read())
+    # template_str = StringIO(open(app_path + '\messages.pot', 'r', encoding='utf-8').read())
     template = read_po(template_str)
 
     if not target:
@@ -60,10 +61,10 @@ def import_strings(filename=None, source='en', target=None):
                     if target in from_tron[id].keys():
                         new_catalog.add(id, from_tron[id][locale])
                 new_catalog.update(template)
-                os.rename(translations + '\\' + locale + '\LC_MESSAGES\messages.po', translations + '\\' + locale + '\LC_MESSAGES\\bak\\' + str(datetime.datetime.now()).replace(' ', '_').replace(':', '-')[:-7] + '_messages.po')
-                # os.rename(translations + '/' + locale + '/LC_MESSAGES/messages.po', translations + '/' + locale + '/LC_MESSAGES/bak/' + str(datetime.datetime.now()).replace(' ', '_').replace(':', '-')[:-7] + '_messages.po')
-                write_po(open(translations + '\\' + locale + '\LC_MESSAGES\messages.po', 'wb'), new_catalog)
-                # write_po(open(translations + '/' + locale + '/LC_MESSAGES/messages.po', 'wb'), new_catalog)
+                # os.rename(translations + '\\' + locale + '\LC_MESSAGES\messages.po', translations + '\\' + locale + '\LC_MESSAGES\\bak\\' + str(datetime.datetime.now()).replace(' ', '_').replace(':', '-')[:-7] + '_messages.po')
+                os.rename(translations + '/' + locale + '/LC_MESSAGES/messages.po', translations + '/' + locale + '/LC_MESSAGES/bak/' + str(datetime.datetime.now()).replace(' ', '_').replace(':', '-')[:-7] + '_messages.po')
+                # write_po(open(translations + '\\' + locale + '\LC_MESSAGES\messages.po', 'wb'), new_catalog)
+                write_po(open(translations + '/' + locale + '/LC_MESSAGES/messages.po', 'wb'), new_catalog)
 
     else:
         new_catalog = Catalog()
@@ -71,10 +72,10 @@ def import_strings(filename=None, source='en', target=None):
             if target in from_tron[id].keys():
                 new_catalog.add(id, from_tron[id][target])
         new_catalog.update(template)
-        os.rename(translations + '\\' + target + '\LC_MESSAGES\messages.po', translations + '\\' + target + '\LC_MESSAGES\\bak\\' + str(datetime.datetime.now()).replace(' ', '_').replace(':', '-')[:-7] + '_messages.po')
-        # os.rename(translations + '/' + target + '/LC_MESSAGES/messages.po', translations + '/' + target + '/LC_MESSAGES/bak/' + str(datetime.datetime.now()).replace(' ', '_').replace(':', '-')[:-7] + '_messages.po')
-        write_po(open(translations + '\\' + target + '\LC_MESSAGES\messages.po', 'wb'), new_catalog)
-        # write_po(open(translations + '/' + target + '/LC_MESSAGES/messages.po', 'wb'), new_catalog)
+        # os.rename(translations + '\\' + target + '\LC_MESSAGES\messages.po', translations + '\\' + target + '\LC_MESSAGES\\bak\\' + str(datetime.datetime.now()).replace(' ', '_').replace(':', '-')[:-7] + '_messages.po')
+        os.rename(translations + '/' + target + '/LC_MESSAGES/messages.po', translations + '/' + target + '/LC_MESSAGES/bak/' + str(datetime.datetime.now()).replace(' ', '_').replace(':', '-')[:-7] + '_messages.po')
+        # write_po(open(translations + '\\' + target + '\LC_MESSAGES\messages.po', 'wb'), new_catalog)
+        write_po(open(translations + '/' + target + '/LC_MESSAGES/messages.po', 'wb'), new_catalog)
 
 
 # def parse_strings(source='en', target=None, format=None):
@@ -86,5 +87,5 @@ def import_strings(filename=None, source='en', target=None):
 
 if __name__ == '__main__':
     # export_strings('en')
-    import_strings(r'C:\Users\v-oksana.tkach\PycharmProjects\i18n_metamova\json_strings\en_strings.json', 'en', 'en')
+    import_strings(r'uk_strings.json', 'en', 'uk')
     # print(translations)

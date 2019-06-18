@@ -15,21 +15,30 @@ def index():
 
 @app.route('/ids')
 def ids():
-    with babel_force_locale('ids'):
-        return render_template('metamova.html')
+	form = ContactForm()
+	with babel_force_locale('ids'):
+		return render_template('metamova.html', form=form)
 
 
 @app.route('/pseudo')
 def pseudo():
+    form = ContactForm()
     with babel_force_locale('pseudo'):
-        return render_template('metamova.html')
+        return render_template('metamova.html', form=form)
+
+
+@app.route('/uk')
+def uk():
+    form = ContactForm()
+    with babel_force_locale('uk'):
+        return render_template('metamova.html', form=form)
 
 
 @app.route('/contact', methods=['GET', 'POST'])
 def contact():
 	form = ContactForm()
 	if form.validate_on_submit():
-		send('vitalik@metamova.com', 'send', form=form)
+		send('info@metamova.com', 'send', form=form)
 
 		flash("Thank you! We'll get to you shortly.", "success")
 		return redirect(url_for('index', _anchor='contact'))

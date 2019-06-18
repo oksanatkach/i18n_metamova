@@ -206,7 +206,7 @@ a:hover{
 	.section-head{
 
 		p{
-			color: #ccc;
+			color: $sub-color;
 		}
 	}
 
@@ -526,7 +526,7 @@ a:hover{
 
 .logo{
 	padding: 15px 0;
-	width: 100px;
+	width: 200px;
 }
 
 /* ----------------------------------------------------------------
@@ -970,7 +970,6 @@ a:hover{
 			width: 70%;
 			right: -40%;
 			top: 15px;
-			opacity: .5;
 
 			&.tobotm{
 				transform: rotateX(180deg);
@@ -1010,7 +1009,7 @@ a:hover{
 			height: 80px;
 			line-height: 85px;
 			border-radius: 50%;
-			border: 1px dashed #eee;
+			border: 1px dashed #fff;
 			margin-bottom: 30px;
 		}
 
@@ -1281,7 +1280,7 @@ a:hover{
 			}
 
 			span{
-				color: #777;
+				color: $sub-color;
 				font-size: 13px;
 				font-weight: 400;
 			}
@@ -1563,6 +1562,7 @@ a:hover{
 	h5{
 		font-weight: 400;
 		margin-bottom: 30px;
+		color: $sub-color;
 	}
 }
 
@@ -1745,7 +1745,7 @@ footer{
 
 	.header{
 		background-attachment: scroll !important;
-		background-position: 50% 0% !important;
+		background-position: center !important;
 
 		.caption{
 
