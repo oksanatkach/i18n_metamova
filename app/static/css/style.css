@@ -29,8 +29,9 @@
 	12 Blog
 	13 Call-action
 	14 Contact
-	15 Footer
-	16 Responsive
+  15 Newsletter
+	16 Footer
+	17 Responsive
  
 
 ---------------------------------------------------------------- */
@@ -1089,11 +1090,70 @@ a:hover {
   max-height: 160px;
   max-width: 100%; }
 
+.alert-success {
+  background-color: #54a754;
+  color: #fff;
+}
+
 /* ----------------------------------------------------------------
      [ End Contact ]
 -----------------------------------------------------------------*/
+
 /* ----------------------------------------------------------------
-     [ 15 Start Footer ]
+     [ 15 Newsletter]
+-----------------------------------------------------------------*/
+
+.btn-news {
+  background-color: #FDAC25;
+  border-radius: 20px;
+
+}
+
+.btn-news:hover {
+  opacity: 0.8;
+}
+
+.btn-new:active {
+  border: none;
+}
+
+.fa-play {
+  padding-top: 3px;
+  padding-left: 3px;
+  color: white;
+}
+
+.name-input {
+  width: 20%;
+  padding: 12px;
+  margin: 8px 8px 0 60px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 25px;
+  box-sizing: border-box;
+  background-color: #FDAC25;
+  color: white;
+  border: none;
+}
+
+.alert-primary {
+  margin-top: 10px;
+  background-color: #54a754;
+  color: #fff;
+  border: none;
+}
+.alert-danger {
+  margin-top: 10px;
+  background-color: #C11B17;
+  color: #fff;
+  border: none;
+}
+
+/* ----------------------------------------------------------------
+     [ End Newsletter ]
+-----------------------------------------------------------------*/
+/* ----------------------------------------------------------------
+     [ 16 Start Footer ]
 -----------------------------------------------------------------*/
 footer {
   padding: 80px 0;
@@ -1120,7 +1180,7 @@ footer {
      [ End Footer ]
 -----------------------------------------------------------------*/
 /* ----------------------------------------------------------------
- 	 [ 16 Responsive ]
+ 	 [ 17 Responsive ]
 -----------------------------------------------------------------*/
 @media screen and (min-width: 1200px) {
   .container {

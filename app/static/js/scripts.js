@@ -231,7 +231,7 @@ $(window).on("load",function (){
 
 // Slider 
 $(document).ready(function() {
-
+    
     var owl = $('.header .owl-carousel');
 
 
@@ -267,3 +267,10 @@ $(document).ready(function() {
     });
 
 });
+
+
+window.setTimeout(function() {
+    $(".alert").fadeTo(700, 0).slideUp(700, function(){
+        $(this).remove(); 
+    });
+}, 5000);
