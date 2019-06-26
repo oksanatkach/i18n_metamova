@@ -3,12 +3,11 @@
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 #
-
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-23 15:40+0300\n"
+"POT-Creation-Date: 2019-06-26 18:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -33,795 +32,800 @@ msgstr ""
 msgid "page_title"
 msgstr "Metamova - на 'ти' з іноваціями"
 
-#: app/templates/bak-metamova.html:67 app/templates/metamova.html:68
+#: app/templates/bak-metamova.html:67 app/templates/metamova.html:71
 msgid "nav.item_1"
 msgstr "Головна"
 
-#: app/templates/bak-metamova.html:70 app/templates/metamova.html:71
+#: app/templates/bak-metamova.html:70 app/templates/metamova.html:74
 msgid "nav.item_2"
 msgstr "Послуги"
 
-#: app/templates/bak-metamova.html:73 app/templates/metamova.html:74
+#: app/templates/bak-metamova.html:73 app/templates/metamova.html:77
 msgid "nav.item_3"
 msgstr "Проекти"
 
-#: app/templates/bak-metamova.html:76 app/templates/metamova.html:77
+#: app/templates/bak-metamova.html:76 app/templates/metamova.html:80
 msgid "nav.item_4"
 msgstr "Команда"
 
-#: app/templates/bak-metamova.html:79 app/templates/metamova.html:80
+#: app/templates/bak-metamova.html:79 app/templates/metamova.html:83
 msgid "nav.item_5"
 msgstr "Price"
 
-#: app/templates/bak-metamova.html:82 app/templates/metamova.html:83
+#: app/templates/bak-metamova.html:82 app/templates/metamova.html:86
 msgid "nav.item_6"
 msgstr "Блог"
 
-#: app/templates/bak-metamova.html:85 app/templates/metamova.html:86
+#: app/templates/bak-metamova.html:85 app/templates/metamova.html:89
 msgid "nav.item_7"
 msgstr "Контакти"
 
-#: app/templates/bak-metamova.html:104 app/templates/metamova.html:105
+#: app/templates/bak-metamova.html:104 app/templates/metamova.html:108
 msgid "header_title"
 msgstr "Metamova"
 
-#: app/templates/bak-metamova.html:107 app/templates/metamova.html:108
+#: app/templates/bak-metamova.html:107 app/templates/metamova.html:111
 msgid "header_description"
 msgstr "Усі іновації у сфері локалізації в одному зручному місці!"
 
-#: app/templates/bak-metamova.html:111 app/templates/metamova.html:112
+#: app/templates/bak-metamova.html:111 app/templates/metamova.html:115
 msgid "header_button"
 msgstr "Get Started"
 
-#: app/templates/bak-metamova.html:132 app/templates/metamova.html:133
+#: app/templates/bak-metamova.html:132 app/templates/metamova.html:136
 msgid "hero_title"
 msgstr "Ваш осередок <span>мовних іновацій</span>"
 
-#: app/templates/bak-metamova.html:133 app/templates/metamova.html:134
+#: app/templates/bak-metamova.html:133 app/templates/metamova.html:137
 msgid "hero_description"
 msgstr ""
 "Наша команда талановитих лінгвістів та інженерів, завдяки особливому "
 "підходу до обробки даних, використає сильні сторони Ваших робочих "
 "процесів та розкриє їх повний локалізаційний потенціал."
 
-#: app/templates/bak-metamova.html:139 app/templates/metamova.html:140
+#: app/templates/bak-metamova.html:139 app/templates/metamova.html:143
 msgid "services.title1"
 msgstr "L10n та i18n"
 
-#: app/templates/bak-metamova.html:140 app/templates/metamova.html:141
+#: app/templates/bak-metamova.html:140 app/templates/metamova.html:144
 msgid "services.sub1"
 msgstr "Плануєте підкорювати іноземні ринки?"
 
-#: app/templates/bak-metamova.html:141 app/templates/metamova.html:142
+#: app/templates/bak-metamova.html:141 app/templates/metamova.html:145
 msgid "services.description1"
 msgstr "Повний цикл послуг L10n та i18n від початку до кінця"
 
-#: app/templates/bak-metamova.html:148 app/templates/metamova.html:149
+#: app/templates/bak-metamova.html:148 app/templates/metamova.html:153
 msgid "services.title2"
 msgstr "NLP"
 
-#: app/templates/bak-metamova.html:149 app/templates/metamova.html:150
+#: app/templates/bak-metamova.html:149 app/templates/metamova.html:154
 msgid "services.sub2"
 msgstr "Бажаєте використати свої дані для перекладу?"
 
-#: app/templates/bak-metamova.html:150 app/templates/metamova.html:151
+#: app/templates/bak-metamova.html:150 app/templates/metamova.html:155
 msgid "services.description2"
 msgstr ""
 "Ми використовуємо найновіші досягнення Data Science щоб забезпечити Вас "
 "індивідуальним машинним перекладом та іншими передовими NLP технологіями "
 "для просування Вашого бізнесу у сфері перекладів"
 
-#: app/templates/bak-metamova.html:157 app/templates/metamova.html:158
+#: app/templates/bak-metamova.html:157 app/templates/metamova.html:162
 msgid "services.title3"
 msgstr "Інженерія"
 
-#: app/templates/bak-metamova.html:158 app/templates/metamova.html:159
+#: app/templates/bak-metamova.html:158 app/templates/metamova.html:163
 msgid "services.sub3"
 msgstr "Потребуєте індивідуального ПЗ для свого проекту у сфері перекладів?"
 
-#: app/templates/bak-metamova.html:159 app/templates/metamova.html:160
+#: app/templates/bak-metamova.html:159 app/templates/metamova.html:164
 msgid "services.description3"
 msgstr "Наші інженери працюють з думкою про перекладачів"
 
-#: app/templates/bak-metamova.html:175 app/templates/metamova.html:176
+#: app/templates/bak-metamova.html:175 app/templates/metamova.html:261
 msgid "about.tab1"
 msgstr "Про нас"
 
-#: app/templates/bak-metamova.html:178 app/templates/metamova.html:179
+#: app/templates/bak-metamova.html:178 app/templates/metamova.html:264
 msgid "about.tab2"
 msgstr "Наша ціль"
 
-#: app/templates/bak-metamova.html:181 app/templates/metamova.html:182
+#: app/templates/bak-metamova.html:181 app/templates/metamova.html:258
 msgid "about.tab3"
 msgstr "Чому ми?"
 
-#: app/templates/bak-metamova.html:190 app/templates/metamova.html:191
+#: app/templates/bak-metamova.html:190 app/templates/metamova.html:305
 msgid "about.title1"
 msgstr "Про нас"
 
-#: app/templates/bak-metamova.html:191 app/templates/metamova.html:192
+#: app/templates/bak-metamova.html:191 app/templates/metamova.html:306
 msgid "about.sub1"
-msgstr "We Are A Creative Agency"
+msgstr "Індивідуальний підхід"
 
-#: app/templates/bak-metamova.html:192 app/templates/metamova.html:193
+#: app/templates/bak-metamova.html:192 app/templates/metamova.html:307
 msgid "about.description1"
 msgstr ""
-"We’re full service which means we’ve got you covered on design and "
-"content right through to digital."
+"У нашій роботі не буває однотипних проблем, тому рішення, які ми "
+"пропонуємо, максимально індивідуальні."
 
-#: app/templates/bak-metamova.html:198 app/templates/metamova.html:199
+#: app/templates/bak-metamova.html:198 app/templates/metamova.html:313
 msgid "about.service1_1"
-msgstr "Web Design"
+msgstr "Розробка"
 
-#: app/templates/bak-metamova.html:204 app/templates/metamova.html:205
+#: app/templates/bak-metamova.html:204 app/templates/metamova.html:319
 msgid "about.service2_1"
-msgstr "Branding"
+msgstr "Автоматизація"
 
-#: app/templates/bak-metamova.html:210 app/templates/metamova.html:211
+#: app/templates/bak-metamova.html:210 app/templates/metamova.html:325
 msgid "about.service3_1"
-msgstr "Development"
+msgstr "Консультування"
 
-#: app/templates/bak-metamova.html:229 app/templates/metamova.html:230
+#: app/templates/bak-metamova.html:229 app/templates/metamova.html:346
 msgid "about.title2"
-msgstr "Our Mission"
+msgstr "Наша ціль"
 
-#: app/templates/bak-metamova.html:230 app/templates/metamova.html:231
+#: app/templates/bak-metamova.html:230 app/templates/metamova.html:347
 msgid "about.sub2"
-msgstr "We Are A Creative Agency"
+msgstr "Ефективні іновації у сфері інжинерії локалізацій"
 
-#: app/templates/bak-metamova.html:231 app/templates/metamova.html:232
+#: app/templates/bak-metamova.html:231 app/templates/metamova.html:348
 msgid "about.description2"
 msgstr ""
-"We’re full service which means</b> we’ve got you covered on design and "
-"content right through to digital. You’ll form a lasting relationship with"
-" us, <b>collaboration is central to</b> everything we do. <b>We’ll push "
-"you out of</b> your comfort zone from time, but this is where you’ll "
-"shine. Bottom line is we want you to succeed at Faculty.</p>\n"
-"                                            <p>You’ll form a lasting "
-"relationship with us, collaboration is central to everything we do. We’ll"
-" push you out of your comfort zone from time-to-time, but this is where "
-"you’ll shine. Bottom line is we want you to succeed at Faculty."
+"Головна складова нашого успіху - це успіх наших партнерів.</b> Саме тому,"
+" постійний розвиток технологій інжинерії локалізацій - це наш вклад у "
+"галузь, яка невпинно розвивається.<b></b><b></b></p>\n"
+"<p>"
 
-#: app/templates/bak-metamova.html:250 app/templates/metamova.html:251
+#: app/templates/bak-metamova.html:250 app/templates/metamova.html:273
 msgid "about.title3"
-msgstr "Why Choose Us?"
+msgstr "Чому ж?"
 
-#: app/templates/bak-metamova.html:251 app/templates/metamova.html:252
+#: app/templates/bak-metamova.html:251 app/templates/metamova.html:274
 msgid "about.sub3"
-msgstr "We Are A Creative Agency"
+msgstr "Досвід, винахідливість, зручність співпраці"
 
-#: app/templates/bak-metamova.html:252 app/templates/metamova.html:253
+#: app/templates/bak-metamova.html:252 app/templates/metamova.html:275
 msgid "about.description3"
 msgstr ""
-"We’re full service which means we’ve got you covered on design and "
-"content right through to digital.You’ll form a lasting relationship with "
-"us, collaboration is central to everything we do."
+"Усі наші фахівці дуже досвідчені і талановиті інженери. Ми завжди маємо "
+"що запропонувати навіть у, здавалося б, найбезнадійніших ситуаціях. Ви "
+"будете задоволені співпрацею з нами!"
 
-#: app/templates/bak-metamova.html:256 app/templates/metamova.html:257
+#: app/templates/bak-metamova.html:256 app/templates/metamova.html:279
 msgid "about.adv1_3"
-msgstr "Perfect Design"
+msgstr "Професіоналізм"
 
-#: app/templates/bak-metamova.html:260 app/templates/metamova.html:261
+#: app/templates/bak-metamova.html:260 app/templates/metamova.html:283
 msgid "about.adv2_3"
-msgstr "Retina Ready"
+msgstr "Індтвідуальний підхід"
 
-#: app/templates/bak-metamova.html:264 app/templates/metamova.html:265
+#: app/templates/bak-metamova.html:264 app/templates/metamova.html:287
 msgid "about.adv3_3"
-msgstr "Friendly Support"
+msgstr "Підтримка проектів"
 
-#: app/templates/bak-metamova.html:297 app/templates/metamova.html:298
+#: app/templates/bak-metamova.html:297 app/templates/metamova.html:189
 msgid "process.title"
-msgstr "<span>Our</span> Process</h4>"
+msgstr "<span>Наш</span> Процес</h4>"
 
-#: app/templates/bak-metamova.html:298 app/templates/metamova.html:299
+#: app/templates/bak-metamova.html:298 app/templates/metamova.html:190
 msgid "process.description"
 msgstr ""
-"We are a passionate digital design agency that specializes in beautiful "
-"and easy-to-use digital design & web development services."
+"Ми не перекладаємо. Ми робимо процес перекладу простим для перекладачів "
+"там, де він здавався надто важким або неможливим."
 
-#: app/templates/bak-metamova.html:307 app/templates/metamova.html:308
+#: app/templates/bak-metamova.html:307 app/templates/metamova.html:199
 msgid "process.step1_num"
 msgstr "01"
 
-#: app/templates/bak-metamova.html:308 app/templates/metamova.html:309
+#: app/templates/bak-metamova.html:308 app/templates/metamova.html:200
 msgid "process.step1_title"
-msgstr "Ideas"
+msgstr "Ми спостерігаємо"
 
-#: app/templates/bak-metamova.html:309 app/templates/metamova.html:310
+#: app/templates/bak-metamova.html:309 app/templates/metamova.html:201
 msgid "process.step1_description"
 msgstr ""
-"Nulla metus metus ullamcorper vel tincidunt sed euismod nibh Quisque "
-"volutpat"
+"Ми проводимо час та спілкуємось з Вашою командою щоб краще зрозуміти її "
+"робочий процес"
 
-#: app/templates/bak-metamova.html:319 app/templates/metamova.html:320
+#: app/templates/bak-metamova.html:319 app/templates/metamova.html:211
 msgid "process.step2_num"
 msgstr "02"
 
-#: app/templates/bak-metamova.html:320 app/templates/metamova.html:321
+#: app/templates/bak-metamova.html:320 app/templates/metamova.html:212
 msgid "process.step2_title"
-msgstr "Planning"
+msgstr "Ми аналізуємо"
 
-#: app/templates/bak-metamova.html:321 app/templates/metamova.html:322
+#: app/templates/bak-metamova.html:321 app/templates/metamova.html:213
 msgid "process.step2_description"
 msgstr ""
-"Nulla metus metus ullamcorper vel tincidunt sed euismod nibh Quisque "
-"volutpat"
+"Ми визначаємо, що можна вдосконалити та використовуємо отримані дані для "
+"економії вашого часу та грошей"
 
-#: app/templates/bak-metamova.html:331 app/templates/metamova.html:332
+#: app/templates/bak-metamova.html:331 app/templates/metamova.html:223
 msgid "process.step3_num"
 msgstr "03"
 
-#: app/templates/bak-metamova.html:332 app/templates/metamova.html:333
+#: app/templates/bak-metamova.html:332 app/templates/metamova.html:224
 msgid "process.step3_title"
-msgstr "Development"
+msgstr "Ми створюємо"
 
-#: app/templates/bak-metamova.html:333 app/templates/metamova.html:334
+#: app/templates/bak-metamova.html:333 app/templates/metamova.html:225
 msgid "process.step3_description"
-msgstr ""
-"Nulla metus metus ullamcorper vel tincidunt sed euismod nibh Quisque "
-"volutpat"
+msgstr "Ми розробляємо ефективні рішення для економії часу та ресурсів"
 
-#: app/templates/bak-metamova.html:342 app/templates/metamova.html:343
+#: app/templates/bak-metamova.html:342 app/templates/metamova.html:234
 msgid "process.step4_num"
 msgstr "04"
 
-#: app/templates/bak-metamova.html:343 app/templates/metamova.html:344
+#: app/templates/bak-metamova.html:343 app/templates/metamova.html:235
 msgid "process.step4_title"
-msgstr "Testing"
+msgstr "Ми перевіряємо"
 
-#: app/templates/bak-metamova.html:344 app/templates/metamova.html:345
+#: app/templates/bak-metamova.html:344 app/templates/metamova.html:236
 msgid "process.step4_description"
 msgstr ""
-"Nulla metus metus ullamcorper vel tincidunt sed euismod nibh Quisque "
-"volutpat"
+"Ми визначаємо та моніторимо ключові показники ефективності, щоб визначити"
+" де вони працюють добре та де потребують вдосконалення"
 
-#: app/templates/bak-metamova.html:368 app/templates/metamova.html:369
+#: app/templates/bak-metamova.html:368 app/templates/metamova.html:377
 msgid "portfolio.title"
 msgstr "<span>Наші</span> проекти"
 
-#: app/templates/bak-metamova.html:369 app/templates/metamova.html:370
+#: app/templates/bak-metamova.html:369 app/templates/metamova.html:378
 msgid "portfolio.description"
 msgstr ""
 "We are a passionate digital design agency that specializes in beautiful "
 "and easy-to-use digital design & web development services."
 
-#: app/templates/bak-metamova.html:381 app/templates/metamova.html:382
+#: app/templates/bak-metamova.html:381 app/templates/metamova.html:390
 msgid "portfolio.cat1"
 msgstr "Усі"
 
-#: app/templates/bak-metamova.html:382 app/templates/metamova.html:383
+#: app/templates/bak-metamova.html:382 app/templates/metamova.html:391
 msgid "portfolio.cat2"
 msgstr "Brand"
 
-#: app/templates/bak-metamova.html:383 app/templates/metamova.html:384
+#: app/templates/bak-metamova.html:383 app/templates/metamova.html:392
 msgid "portfolio.cat3"
 msgstr "Design"
 
-#: app/templates/bak-metamova.html:384 app/templates/metamova.html:385
+#: app/templates/bak-metamova.html:384 app/templates/metamova.html:393
 msgid "portfolio.cat4"
 msgstr "Graphic"
 
-#: app/templates/bak-metamova.html:399 app/templates/metamova.html:400
+#: app/templates/bak-metamova.html:399 app/templates/metamova.html:408
 msgid "portfolio.proj1_type"
 msgstr "Logo | Branding"
 
-#: app/templates/bak-metamova.html:400 app/templates/metamova.html:401
+#: app/templates/bak-metamova.html:400 app/templates/metamova.html:409
 msgid "portfolio.proj1_name"
 msgstr "Creative Web Design"
 
-#: app/templates/bak-metamova.html:415 app/templates/metamova.html:416
+#: app/templates/bak-metamova.html:415 app/templates/metamova.html:424
 msgid "portfolio.proj2_type"
 msgstr "Logo | Branding"
 
-#: app/templates/bak-metamova.html:416 app/templates/metamova.html:417
+#: app/templates/bak-metamova.html:416 app/templates/metamova.html:425
 msgid "portfolio.proj2_name"
 msgstr "Creative Web Design"
 
-#: app/templates/bak-metamova.html:431 app/templates/metamova.html:432
+#: app/templates/bak-metamova.html:431 app/templates/metamova.html:440
 msgid "portfolio.proj3_type"
 msgstr "Logo | Branding"
 
-#: app/templates/bak-metamova.html:432 app/templates/metamova.html:433
+#: app/templates/bak-metamova.html:432 app/templates/metamova.html:441
 msgid "portfolio.proj3_name"
 msgstr "Creative Web Design"
 
-#: app/templates/bak-metamova.html:447 app/templates/metamova.html:448
+#: app/templates/bak-metamova.html:447 app/templates/metamova.html:456
 msgid "portfolio.proj4_type"
 msgstr "Logo | Branding"
 
-#: app/templates/bak-metamova.html:448 app/templates/metamova.html:449
+#: app/templates/bak-metamova.html:448 app/templates/metamova.html:457
 msgid "portfolio.proj4_name"
 msgstr "Creative Web Design"
 
-#: app/templates/bak-metamova.html:463 app/templates/metamova.html:464
+#: app/templates/bak-metamova.html:463 app/templates/metamova.html:472
 msgid "portfolio.proj5_type"
 msgstr "Logo | Branding"
 
-#: app/templates/bak-metamova.html:464 app/templates/metamova.html:465
+#: app/templates/bak-metamova.html:464 app/templates/metamova.html:473
 msgid "portfolio.proj5_name"
 msgstr "Creative Web Design"
 
-#: app/templates/bak-metamova.html:479 app/templates/metamova.html:480
+#: app/templates/bak-metamova.html:479 app/templates/metamova.html:488
 msgid "portfolio.proj6_type"
 msgstr "Logo | Branding"
 
-#: app/templates/bak-metamova.html:480 app/templates/metamova.html:481
+#: app/templates/bak-metamova.html:480 app/templates/metamova.html:489
 msgid "portfolio.proj6_name"
 msgstr "Creative Web Design"
 
-#: app/templates/bak-metamova.html:495 app/templates/metamova.html:496
+#: app/templates/bak-metamova.html:495 app/templates/metamova.html:504
 msgid "portfolio.proj7_type"
 msgstr "Logo | Branding"
 
-#: app/templates/bak-metamova.html:496 app/templates/metamova.html:497
+#: app/templates/bak-metamova.html:496 app/templates/metamova.html:505
 msgid "portfolio.proj7_name"
 msgstr "Creative Web Design"
 
-#: app/templates/bak-metamova.html:511 app/templates/metamova.html:512
+#: app/templates/bak-metamova.html:511 app/templates/metamova.html:520
 msgid "portfolio.proj8_type"
 msgstr "Logo | Branding"
 
-#: app/templates/bak-metamova.html:512 app/templates/metamova.html:513
+#: app/templates/bak-metamova.html:512 app/templates/metamova.html:521
 msgid "portfolio.proj8_name"
 msgstr "Creative Web Design"
 
-#: app/templates/bak-metamova.html:549 app/templates/metamova.html:550
+#: app/templates/bak-metamova.html:549 app/templates/metamova.html:558
 msgid "adv1_title"
 msgstr "Fully Responsive"
 
-#: app/templates/bak-metamova.html:550 app/templates/metamova.html:551
+#: app/templates/bak-metamova.html:550 app/templates/metamova.html:559
 msgid "adv1_description"
 msgstr ""
 "Nulla metus ullamcorper vel tincidunt sed euismod nibh Quisque volutpat "
 "velit class aptent taciti sociosqu."
 
-#: app/templates/bak-metamova.html:556 app/templates/metamova.html:557
+#: app/templates/bak-metamova.html:556 app/templates/metamova.html:565
 msgid "adv2_title"
 msgstr "Clean & Modern Design"
 
-#: app/templates/bak-metamova.html:557 app/templates/metamova.html:558
+#: app/templates/bak-metamova.html:557 app/templates/metamova.html:566
 msgid "adv2_description"
 msgstr ""
 "Nulla metus ullamcorper vel tincidunt sed euismod nibh Quisque volutpat "
 "velit class aptent taciti sociosqu."
 
-#: app/templates/bak-metamova.html:563 app/templates/metamova.html:564
+#: app/templates/bak-metamova.html:563 app/templates/metamova.html:572
 msgid "adv3_title"
 msgstr "Friendly Support"
 
-#: app/templates/bak-metamova.html:564 app/templates/metamova.html:565
+#: app/templates/bak-metamova.html:564 app/templates/metamova.html:573
 msgid "adv3_description"
 msgstr ""
 "Nulla metus ullamcorper vel tincidunt sed euismod nibh Quisque volutpat "
 "velit class aptent taciti sociosqu."
 
-#: app/templates/bak-metamova.html:589 app/templates/metamova.html:590
+#: app/templates/bak-metamova.html:589 app/templates/metamova.html:600
 msgid "team.title"
 msgstr "Наша <span>команда</span>"
 
-#: app/templates/bak-metamova.html:590 app/templates/metamova.html:591
+#: app/templates/bak-metamova.html:590 app/templates/metamova.html:601
 msgid "team.description"
 msgstr ""
 "We are a passionate digital design agency that specializes in beautiful "
 "and easy-to-use digital design & web development services."
 
-#: app/templates/bak-metamova.html:610 app/templates/metamova.html:611
+#: app/templates/bak-metamova.html:610 app/templates/metamova.html:624
 msgid "team.member1_name"
 msgstr "Ткач Оксана"
 
-#: app/templates/bak-metamova.html:611 app/templates/metamova.html:612
+#: app/templates/bak-metamova.html:611 app/templates/metamova.html:625
 msgid "team.member1_title"
 msgstr "CEO"
 
-#: app/templates/bak-metamova.html:631 app/templates/metamova.html:632
+#: app/templates/bak-metamova.html:631 app/templates/metamova.html:645
 msgid "team.member2_name"
 msgstr "Alex Smith"
 
-#: app/templates/bak-metamova.html:632 app/templates/metamova.html:633
+#: app/templates/bak-metamova.html:632 app/templates/metamova.html:646
 msgid "team.member2_title"
 msgstr "Project Manager"
 
-#: app/templates/bak-metamova.html:652 app/templates/metamova.html:653
+#: app/templates/bak-metamova.html:652 app/templates/metamova.html:666
 msgid "team.member3_name"
 msgstr "Alex Smith"
 
-#: app/templates/bak-metamova.html:653 app/templates/metamova.html:654
+#: app/templates/bak-metamova.html:653 app/templates/metamova.html:667
 msgid "team.member3_title"
 msgstr "Project Manager"
 
-#: app/templates/bak-metamova.html:673 app/templates/metamova.html:674
+#: app/templates/bak-metamova.html:673 app/templates/metamova.html:687
 msgid "team.member4_name"
 msgstr "Alex Smith"
 
-#: app/templates/bak-metamova.html:674 app/templates/metamova.html:675
+#: app/templates/bak-metamova.html:674 app/templates/metamova.html:688
 msgid "team.member4_title"
 msgstr "Project Manager"
 
-#: app/templates/bak-metamova.html:694 app/templates/metamova.html:695
+#: app/templates/bak-metamova.html:694 app/templates/metamova.html:708
 msgid "team.member5_name"
 msgstr "Alex Smith"
 
-#: app/templates/bak-metamova.html:695 app/templates/metamova.html:696
+#: app/templates/bak-metamova.html:695 app/templates/metamova.html:709
 msgid "team.member5_title"
 msgstr "Project Manager"
 
-#: app/templates/bak-metamova.html:717 app/templates/metamova.html:718
+#: app/templates/bak-metamova.html:717 app/templates/metamova.html:734
 msgid "feedback.title"
 msgstr "Що кажуть наші <span>клієнти</span>?"
 
-#: app/templates/bak-metamova.html:718 app/templates/metamova.html:719
+#: app/templates/bak-metamova.html:718 app/templates/metamova.html:735
 msgid "feedback.description"
 msgstr ""
 "We are a passionate digital design agency that specializes in beautiful "
 "and easy-to-use digital design & web development services."
 
-#: app/templates/bak-metamova.html:726 app/templates/metamova.html:727
+#: app/templates/bak-metamova.html:726 app/templates/metamova.html:743
 msgid "feedback.mesage1.text"
 msgstr ""
 "Lorem Ipsum is simply dummy text a galley of type and scrambled it to "
 "make a type specimen book."
 
-#: app/templates/bak-metamova.html:732 app/templates/metamova.html:733
+#: app/templates/bak-metamova.html:732 app/templates/metamova.html:749
 msgid "feedback.mesage1.author"
 msgstr "Alex Smith"
 
-#: app/templates/bak-metamova.html:733 app/templates/metamova.html:734
+#: app/templates/bak-metamova.html:733 app/templates/metamova.html:750
 msgid "feedback.mesage1.author_title"
 msgstr "Envato Customer"
 
-#: app/templates/bak-metamova.html:741 app/templates/metamova.html:742
+#: app/templates/bak-metamova.html:741 app/templates/metamova.html:758
 msgid "feedback.mesage2.text"
 msgstr ""
 "Lorem Ipsum is simply dummy text a galley of type and scrambled it to "
 "make a type specimen book."
 
-#: app/templates/bak-metamova.html:747 app/templates/metamova.html:748
+#: app/templates/bak-metamova.html:747 app/templates/metamova.html:764
 msgid "feedback.mesage2.author"
 msgstr "Alex Smith"
 
-#: app/templates/bak-metamova.html:748 app/templates/metamova.html:749
+#: app/templates/bak-metamova.html:748 app/templates/metamova.html:765
 msgid "feedback.mesage2.author_title"
 msgstr "Envato Customer"
 
-#: app/templates/bak-metamova.html:756 app/templates/metamova.html:757
+#: app/templates/bak-metamova.html:756 app/templates/metamova.html:773
 msgid "feedback.mesage3.text"
 msgstr ""
 "Lorem Ipsum is simply dummy text a galley of type and scrambled it to "
 "make a type specimen book."
 
-#: app/templates/bak-metamova.html:762 app/templates/metamova.html:763
+#: app/templates/bak-metamova.html:762 app/templates/metamova.html:779
 msgid "feedback.mesage3.author"
 msgstr "Alex Smith"
 
-#: app/templates/bak-metamova.html:763 app/templates/metamova.html:764
+#: app/templates/bak-metamova.html:763 app/templates/metamova.html:780
 msgid "feedback.mesage3.author_title"
 msgstr "Envato Customer"
 
-#: app/templates/bak-metamova.html:771 app/templates/metamova.html:772
+#: app/templates/bak-metamova.html:771 app/templates/metamova.html:788
 msgid "feedback.mesage4.text"
 msgstr ""
 "Lorem Ipsum is simply dummy text a galley of type and scrambled it to "
 "make a type specimen book."
 
-#: app/templates/bak-metamova.html:777 app/templates/metamova.html:778
+#: app/templates/bak-metamova.html:777 app/templates/metamova.html:794
 msgid "feedback.mesage4.author"
 msgstr "Alex Smith"
 
-#: app/templates/bak-metamova.html:778 app/templates/metamova.html:779
+#: app/templates/bak-metamova.html:778 app/templates/metamova.html:795
 msgid "feedback.mesage4.author_title"
 msgstr "Envato Customer"
 
-#: app/templates/bak-metamova.html:802 app/templates/metamova.html:804
+#: app/templates/bak-metamova.html:802 app/templates/metamova.html:820
 msgid "pricing.title"
 msgstr "Pricing <span>Table</span>"
 
-#: app/templates/bak-metamova.html:803 app/templates/metamova.html:805
+#: app/templates/bak-metamova.html:803 app/templates/metamova.html:821
 msgid "pricing.description"
 msgstr ""
 "We are a passionate digital design agency that specializes in beautiful "
 "and easy-to-use digital design & web development services."
 
-#: app/templates/bak-metamova.html:813 app/templates/metamova.html:815
+#: app/templates/bak-metamova.html:813 app/templates/metamova.html:831
 msgid "pricing.service1.title"
 msgstr "Free"
 
-#: app/templates/bak-metamova.html:817 app/templates/metamova.html:819
+#: app/templates/bak-metamova.html:817 app/templates/metamova.html:835
 msgid "pricing.service1.price"
 msgstr ""
 "<h3><span>$</span>00</h3>\n"
 "                                        <span class=\"per\">/ Month</span>"
 
-#: app/templates/bak-metamova.html:822 app/templates/metamova.html:824
+#: app/templates/bak-metamova.html:822 app/templates/metamova.html:840
 msgid "pricing.service1.what_you_get1"
 msgstr "10 GB Disk Space"
 
-#: app/templates/bak-metamova.html:823 app/templates/metamova.html:825
+#: app/templates/bak-metamova.html:823 app/templates/metamova.html:841
 msgid "pricing.service1.what_you_get2"
 msgstr "15 Domain Names"
 
-#: app/templates/bak-metamova.html:824 app/templates/metamova.html:826
+#: app/templates/bak-metamova.html:824 app/templates/metamova.html:842
 msgid "pricing.service1.what_you_get3"
 msgstr "4 Email Address"
 
-#: app/templates/bak-metamova.html:825 app/templates/metamova.html:827
+#: app/templates/bak-metamova.html:825 app/templates/metamova.html:843
 msgid "pricing.service1.what_you_get4"
 msgstr "Enhanced Security"
 
-#: app/templates/bak-metamova.html:826 app/templates/metamova.html:828
+#: app/templates/bak-metamova.html:826 app/templates/metamova.html:844
 msgid "pricing.service1.what_you_get5"
 msgstr "Unlimited Support"
 
-#: app/templates/bak-metamova.html:832 app/templates/metamova.html:834
+#: app/templates/bak-metamova.html:832 app/templates/metamova.html:850
 msgid "pricing.service1.buy_button"
 msgstr "Purchase Now"
 
-#: app/templates/bak-metamova.html:841 app/templates/metamova.html:843
+#: app/templates/bak-metamova.html:841 app/templates/metamova.html:859
 msgid "pricing.service2.title"
 msgstr "Basic"
 
-#: app/templates/bak-metamova.html:845 app/templates/metamova.html:847
+#: app/templates/bak-metamova.html:845 app/templates/metamova.html:863
 msgid "pricing.service2.price"
 msgstr ""
 "<h3><span>$</span>10</h3>\n"
 "                                        <span class=\"per\">/ Month</span>"
 
-#: app/templates/bak-metamova.html:850 app/templates/metamova.html:852
+#: app/templates/bak-metamova.html:850 app/templates/metamova.html:868
 msgid "pricing.service2.what_you_get1"
 msgstr "10 GB Disk Space"
 
-#: app/templates/bak-metamova.html:851 app/templates/metamova.html:853
+#: app/templates/bak-metamova.html:851 app/templates/metamova.html:869
 msgid "pricing.service2.what_you_get2"
 msgstr "15 Domain Names"
 
-#: app/templates/bak-metamova.html:852 app/templates/metamova.html:854
+#: app/templates/bak-metamova.html:852 app/templates/metamova.html:870
 msgid "pricing.service2.what_you_get3"
 msgstr "4 Email Address"
 
-#: app/templates/bak-metamova.html:853 app/templates/metamova.html:855
+#: app/templates/bak-metamova.html:853 app/templates/metamova.html:871
 msgid "pricing.service2.what_you_get4"
 msgstr "Enhanced Security"
 
-#: app/templates/bak-metamova.html:854 app/templates/metamova.html:856
+#: app/templates/bak-metamova.html:854 app/templates/metamova.html:872
 msgid "pricing.service2.what_you_get5"
 msgstr "Unlimited Support"
 
-#: app/templates/bak-metamova.html:860 app/templates/metamova.html:862
+#: app/templates/bak-metamova.html:860 app/templates/metamova.html:878
 msgid "pricing.service2.buy_button"
 msgstr "Purchase Now"
 
-#: app/templates/bak-metamova.html:870 app/templates/metamova.html:872
+#: app/templates/bak-metamova.html:870 app/templates/metamova.html:888
 msgid "pricing.service3.title"
 msgstr "Standard"
 
-#: app/templates/bak-metamova.html:874 app/templates/metamova.html:876
+#: app/templates/bak-metamova.html:874 app/templates/metamova.html:892
 msgid "pricing.service3.price"
 msgstr ""
 "<h3><span>$</span>30</h3>\n"
 "                                        <span class=\"per\">/ Month</span>"
 
-#: app/templates/bak-metamova.html:879 app/templates/metamova.html:881
+#: app/templates/bak-metamova.html:879 app/templates/metamova.html:897
 msgid "pricing.service3.what_you_get1"
 msgstr "10 GB Disk Space"
 
-#: app/templates/bak-metamova.html:880 app/templates/metamova.html:882
+#: app/templates/bak-metamova.html:880 app/templates/metamova.html:898
 msgid "pricing.service3.what_you_get2"
 msgstr "15 Domain Names"
 
-#: app/templates/bak-metamova.html:881 app/templates/metamova.html:883
+#: app/templates/bak-metamova.html:881 app/templates/metamova.html:899
 msgid "pricing.service3.what_you_get3"
 msgstr "4 Email Address"
 
-#: app/templates/bak-metamova.html:882 app/templates/metamova.html:884
+#: app/templates/bak-metamova.html:882 app/templates/metamova.html:900
 msgid "pricing.service3.what_you_get4"
 msgstr "Enhanced Security"
 
-#: app/templates/bak-metamova.html:883 app/templates/metamova.html:885
+#: app/templates/bak-metamova.html:883 app/templates/metamova.html:901
 msgid "pricing.service3.what_you_get5"
 msgstr "Unlimited Support"
 
-#: app/templates/bak-metamova.html:889 app/templates/metamova.html:891
+#: app/templates/bak-metamova.html:889 app/templates/metamova.html:907
 msgid "pricing.service3.buy_button"
 msgstr "Purchase Now"
 
-#: app/templates/bak-metamova.html:898 app/templates/metamova.html:900
+#: app/templates/bak-metamova.html:898 app/templates/metamova.html:916
 msgid "pricing.service4.title"
 msgstr "Premium"
 
-#: app/templates/bak-metamova.html:902 app/templates/metamova.html:904
+#: app/templates/bak-metamova.html:902 app/templates/metamova.html:920
 msgid "pricing.service4.price"
 msgstr ""
 "<h3><span>$</span>80</h3>\n"
 "                                        <span class=\"per\">/ Month</span>"
 
-#: app/templates/bak-metamova.html:907 app/templates/metamova.html:909
+#: app/templates/bak-metamova.html:907 app/templates/metamova.html:925
 msgid "pricing.service4.what_you_get1"
 msgstr "10 GB Disk Space"
 
-#: app/templates/bak-metamova.html:908 app/templates/metamova.html:910
+#: app/templates/bak-metamova.html:908 app/templates/metamova.html:926
 msgid "pricing.service4.what_you_get2"
 msgstr "15 Domain Names"
 
-#: app/templates/bak-metamova.html:909 app/templates/metamova.html:911
+#: app/templates/bak-metamova.html:909 app/templates/metamova.html:927
 msgid "pricing.service4.what_you_get3"
 msgstr "4 Email Address"
 
-#: app/templates/bak-metamova.html:910 app/templates/metamova.html:912
+#: app/templates/bak-metamova.html:910 app/templates/metamova.html:928
 msgid "pricing.service4.what_you_get4"
 msgstr "Enhanced Security"
 
-#: app/templates/bak-metamova.html:911 app/templates/metamova.html:913
+#: app/templates/bak-metamova.html:911 app/templates/metamova.html:929
 msgid "pricing.service4.what_you_get5"
 msgstr "Unlimited Support"
 
-#: app/templates/bak-metamova.html:917 app/templates/metamova.html:919
+#: app/templates/bak-metamova.html:917 app/templates/metamova.html:935
 msgid "pricing.service4.buy_button"
 msgstr "Purchase Now"
 
-#: app/templates/bak-metamova.html:945 app/templates/metamova.html:949
+#: app/templates/bak-metamova.html:945 app/templates/metamova.html:965
 msgid "news.title"
 msgstr "<span>Останні</span> новини"
 
-#: app/templates/bak-metamova.html:946 app/templates/metamova.html:950
+#: app/templates/bak-metamova.html:946 app/templates/metamova.html:966
 msgid "news.description"
 msgstr ""
 "We are a passionate digital design agency that specializes in beautiful "
 "and easy-to-use digital design & web development services."
 
-#: app/templates/bak-metamova.html:957 app/templates/metamova.html:961
+#: app/templates/bak-metamova.html:957 app/templates/metamova.html:977
 msgid "news.article1.author"
 msgstr "Автор: Ткач Оксана"
 
-#: app/templates/bak-metamova.html:958 app/templates/metamova.html:962
+#: app/templates/bak-metamova.html:958 app/templates/metamova.html:978
 msgid "news.article1.date"
 msgstr "06 Aug 2017"
 
-#: app/templates/bak-metamova.html:959 app/templates/metamova.html:963
+#: app/templates/bak-metamova.html:959 app/templates/metamova.html:979
 msgid "news.article1.tag"
 msgstr "i18n"
 
-#: app/templates/bak-metamova.html:961 app/templates/metamova.html:965
+#: app/templates/bak-metamova.html:961 app/templates/metamova.html:981
 msgid "news.article1.title"
 msgstr "How To Internationalize Your Flask App Like a Champ"
 
-#: app/templates/bak-metamova.html:962 app/templates/metamova.html:966
+#: app/templates/bak-metamova.html:962 app/templates/metamova.html:982
 msgid "news.article1.description"
 msgstr ""
 "Lorem Ipsum is simply dummy text of the printing and type setting "
 "industry. Lorem Ipsum has been the dummy text ever"
 
-#: app/templates/bak-metamova.html:963 app/templates/metamova.html:967
+#: app/templates/bak-metamova.html:963 app/templates/metamova.html:983
 msgid "news.article1.read_more"
 msgstr "Читати"
 
-#: app/templates/bak-metamova.html:977 app/templates/metamova.html:981
+#: app/templates/bak-metamova.html:977 app/templates/metamova.html:997
 msgid "news.article2.author"
 msgstr "By : Admin"
 
-#: app/templates/bak-metamova.html:978 app/templates/metamova.html:982
+#: app/templates/bak-metamova.html:978 app/templates/metamova.html:998
 msgid "news.article2.date"
 msgstr "06 Aug 2017"
 
-#: app/templates/bak-metamova.html:979 app/templates/metamova.html:983
+#: app/templates/bak-metamova.html:979 app/templates/metamova.html:999
 msgid "news.article2.tag"
 msgstr "WordPress"
 
-#: app/templates/bak-metamova.html:981 app/templates/metamova.html:985
+#: app/templates/bak-metamova.html:981 app/templates/metamova.html:1001
 msgid "news.article2.title"
 msgstr "48 Best WordPress Themes"
 
-#: app/templates/bak-metamova.html:982 app/templates/metamova.html:986
+#: app/templates/bak-metamova.html:982 app/templates/metamova.html:1002
 msgid "news.article2.description"
 msgstr ""
 "Lorem Ipsum is simply dummy text of the printing and type setting "
 "industry. Lorem Ipsum has been the dummy text ever"
 
-#: app/templates/bak-metamova.html:983 app/templates/metamova.html:987
+#: app/templates/bak-metamova.html:983 app/templates/metamova.html:1003
 msgid "news.article2.read_more"
 msgstr "Read More"
 
-#: app/templates/bak-metamova.html:997 app/templates/metamova.html:1001
+#: app/templates/bak-metamova.html:997 app/templates/metamova.html:1017
 msgid "news.article3.author"
 msgstr "By : Admin"
 
-#: app/templates/bak-metamova.html:998 app/templates/metamova.html:1002
+#: app/templates/bak-metamova.html:998 app/templates/metamova.html:1018
 msgid "news.article3.date"
 msgstr "06 Aug 2017"
 
-#: app/templates/bak-metamova.html:999 app/templates/metamova.html:1003
+#: app/templates/bak-metamova.html:999 app/templates/metamova.html:1019
 msgid "news.article3.tag"
 msgstr "WordPress"
 
-#: app/templates/bak-metamova.html:1001 app/templates/metamova.html:1005
+#: app/templates/bak-metamova.html:1001 app/templates/metamova.html:1021
 msgid "news.article3.title"
 msgstr "48 Best WordPress Themes"
 
-#: app/templates/bak-metamova.html:1002 app/templates/metamova.html:1006
+#: app/templates/bak-metamova.html:1002 app/templates/metamova.html:1022
 msgid "news.article3.description"
 msgstr ""
 "Lorem Ipsum is simply dummy text of the printing and type setting "
 "industry. Lorem Ipsum has been the dummy text ever"
 
-#: app/templates/bak-metamova.html:1003 app/templates/metamova.html:1007
+#: app/templates/bak-metamova.html:1003 app/templates/metamova.html:1023
 msgid "news.article3.read_more"
 msgstr "Read More"
 
-#: app/templates/bak-metamova.html:1025 app/templates/metamova.html:1029
+#: app/templates/bak-metamova.html:1025
 msgid "work_with_us.title"
 msgstr "Хочете співпрацювати?"
 
-#: app/templates/bak-metamova.html:1026 app/templates/metamova.html:1030
+#: app/templates/bak-metamova.html:1026
 msgid "work_with_us.cta"
 msgstr "Розкажіть про свій проект"
 
-#: app/templates/bak-metamova.html:1028 app/templates/metamova.html:1032
+#: app/templates/bak-metamova.html:1028
 msgid "work_with_us.button"
 msgstr "Вжух"
 
-#: app/templates/bak-metamova.html:1049 app/templates/metamova.html:1053
+#: app/templates/bak-metamova.html:1049 app/templates/metamova.html:1070
 msgid "contact_us.title"
 msgstr "Зв'яжіться <span>з</span> нами"
 
-#: app/templates/bak-metamova.html:1050 app/templates/metamova.html:1054
+#: app/templates/bak-metamova.html:1050 app/templates/metamova.html:1071
 msgid "contact_us.description"
 msgstr ""
 "We are a passionate digital design agency that specializes in beautiful "
 "and easy-to-use digital design & web development services."
 
-#: app/templates/bak-metamova.html:1055 app/templates/metamova.html:1059
+#: app/templates/bak-metamova.html:1055 app/templates/metamova.html:1076
 msgid "contact_us.contacts.title"
-msgstr "Як зв'язатися:"
+msgstr "Графік роботи:"
 
-#: app/templates/bak-metamova.html:1056 app/templates/metamova.html:1060
+#: app/templates/bak-metamova.html:1056 app/templates/metamova.html:1077
 msgid "contact_us.contacts.description"
-msgstr ""
-"Nulla metus metus ullamcorper vel tincidunt sed euismod nibh Quisque "
-"volutpat"
+msgstr "Ми важко працюємо, але не по вихідних ;)"
 
-#: app/templates/bak-metamova.html:1060 app/templates/metamova.html:1064
+#: app/templates/bak-metamova.html:1060 app/templates/metamova.html:1081
 msgid "contact_us.contacts.phone.title"
 msgstr "Телефон: "
 
-#: app/templates/bak-metamova.html:1061 app/templates/metamova.html:1065
+#: app/templates/bak-metamova.html:1061 app/templates/metamova.html:1082
 msgid "contact_us.contacts.phone.text"
 msgstr "+38 096 373 46 28"
 
-#: app/templates/bak-metamova.html:1067 app/templates/metamova.html:1071
+#: app/templates/bak-metamova.html:1067 app/templates/metamova.html:1088
 msgid "contact_us.contacts.email.title"
 msgstr "Емейл: "
 
-#: app/templates/bak-metamova.html:1068 app/templates/metamova.html:1072
+#: app/templates/bak-metamova.html:1068 app/templates/metamova.html:1089
 msgid "contact_us.contacts.email.text"
 msgstr "info@metamova.com"
 
-#: app/templates/bak-metamova.html:1074 app/templates/metamova.html:1078
+#: app/templates/bak-metamova.html:1074 app/templates/metamova.html:1095
 msgid "contact_us.contacts.address.title"
 msgstr "Адреса: "
 
-#: app/templates/bak-metamova.html:1075 app/templates/metamova.html:1079
+#: app/templates/bak-metamova.html:1075 app/templates/metamova.html:1096
 msgid "contact_us.contacts.address.text"
 msgstr "Львів, Україна"
 
-#: app/templates/bak-metamova.html:1092 app/templates/metamova.html:1096
+#: app/templates/bak-metamova.html:1092 app/templates/metamova.html:1123
 msgid "contact_us.contact_form.name"
 msgstr "Ваше ім'я"
 
-#: app/templates/bak-metamova.html:1097 app/templates/metamova.html:1101
+#: app/templates/bak-metamova.html:1097 app/templates/metamova.html:1128
 msgid "contact_us.contact_form.email"
 msgstr "Ваш емейл"
 
-#: app/templates/bak-metamova.html:1102 app/templates/metamova.html:1106
+#: app/templates/bak-metamova.html:1102 app/templates/metamova.html:1133
 msgid "contact_us.contact_form.subject"
 msgstr "Тема"
 
-#: app/templates/bak-metamova.html:1107 app/templates/metamova.html:1111
+#: app/templates/bak-metamova.html:1107 app/templates/metamova.html:1138
 msgid "contact_us.contact_form.message"
 msgstr "Ваше повідомлення"
 
-#: app/templates/bak-metamova.html:1112 app/templates/metamova.html:1116
+#: app/templates/bak-metamova.html:1112 app/templates/metamova.html:1143
 msgid "contact_us.contact_form.button_send"
 msgstr "Надіслати"
 
-#: app/templates/bak-metamova.html:1146 app/templates/metamova.html:1148
+#: app/templates/bak-metamova.html:1146 app/templates/metamova.html:1175
 msgid "footer.copyright"
 msgstr "&copy; 2019 Metamova. Усі права захищено."
+
+#: app/templates/metamova.html:1045
+msgid "newsletter.title"
+msgstr "Будьмо <span>на зв'язку</span>"
+
+#: app/templates/metamova.html:1046
+msgid "newsletter.cta"
+msgstr ""
+"Підписуйтесь на нашу розсилку, аби бути в курсі останніх новин у мовній "
+"індустрії"
+
+#: app/templates/metamova.html:1048 app/templates/metamova.html:1049
+msgid "newsletter.email"
+msgstr "Ваш емейл"
 

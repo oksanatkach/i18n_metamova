@@ -27,6 +27,13 @@ def pseudo():
         return render_template('metamova.html', form=form)
 
 
+@app.route('/en')
+def en():
+    form = ContactForm()
+    with babel_force_locale('en'):
+        return render_template('metamova.html', form=form)
+
+
 @app.route('/uk')
 def uk():
     form = ContactForm()

@@ -811,16 +811,15 @@ msgid "footer.copyright"
 msgstr "&copy; 2019 Metamova. All Rights Reserved."
 
 #: app/templates/metamova.html:1045
+#, fuzzy
 msgid "newsletter.title"
-msgstr "Wanna stay <span>in touch?</span>"
+msgstr "<span>Latest</span> News"
 
 #: app/templates/metamova.html:1046
 msgid "newsletter.cta"
 msgstr ""
-"Sign up for our newsletter to get the latest updates on the coolest "
-"events in te language industry"
 
 #: app/templates/metamova.html:1048 app/templates/metamova.html:1049
 msgid "newsletter.email"
-msgstr "Your Email"
+msgstr ""
 

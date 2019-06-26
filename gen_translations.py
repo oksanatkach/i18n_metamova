@@ -6,8 +6,8 @@ import os, json
 import datetime
 
 translations = next(babel.translation_directories)
-# app_path = translations.replace('/app/translations', '')
-app_path = translations.replace('\\app\\translations', '')
+app_path = translations.replace('/app/translations', '')
+# app_path = translations.replace('\\app\\translations', '')
 
 
 def export_strings(source='en', target=None):
@@ -55,10 +55,11 @@ def import_strings(filename=None, source='en', target=None):
 
     if not target:
         for locale in babel.list_translations():
-            if locale not in ['pseudo', source]:
+            locale = locale.language
+            if locale not in ['pseudo', 'ids']:
                 new_catalog = Catalog()
                 for id in from_tron:
-                    if target in from_tron[id].keys():
+                    if locale in from_tron[id].keys():
                         new_catalog.add(id, from_tron[id][locale])
                 new_catalog.update(template)
                 # os.rename(translations + '\\' + locale + '\LC_MESSAGES\messages.po', translations + '\\' + locale + '\LC_MESSAGES\\bak\\' + str(datetime.datetime.now()).replace(' ', '_').replace(':', '-')[:-7] + '_messages.po')
@@ -86,6 +87,6 @@ def import_strings(filename=None, source='en', target=None):
 
 
 if __name__ == '__main__':
-    # export_strings('en')
-    import_strings(r'uk_strings.json', 'en', 'uk')
+    # export_strings()
+    import_strings()#r'strings.json', 'en', 'uk')
     # print(translations)
