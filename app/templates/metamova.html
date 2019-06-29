@@ -57,8 +57,9 @@
 
             <!-- Logo -->
             <a class="logo" href="#">
-                <img style="width: 40%" src="{{ url_for('static', filename='img/logo-light.png') }}" alt="logo">
+                <img src="{{ url_for('static', filename='img/logo-light.png') }}" alt="logo">
             </a>
+            <a class="logo" href="#" style="padding-left: 20px;"><p>{{ _('header_title') }}</p></a>
 
 			  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 			    <span class="icon-bar"><i class="fas fa-bars"></i></span>
@@ -260,9 +261,9 @@
                         <li class="nav-item one active">
                             <a class="nav-link" id="pills-home-tab" data-toggle="pill" href="#tab2" role="tab" aria-controls="tab2" aria-selected="false">{{ _('about.tab1') }}</a>
                         </li>
-                        <li class="nav-item two">
+                        <!--<li class="nav-item two">
                             <a class="nav-link" id="pills-profile-tab" data-toggle="pill" href="#tab3" role="tab" aria-controls="tab3" aria-selected="false">{{ _('about.tab2') }}</a>
-                        </li>
+                        </li>-->
                     </ul>
 
                     <div class="tab-content col-lg-12" id="pills-tabContent">
@@ -291,9 +292,11 @@
                                 </div>
                                 <div class="col-lg-6 image">
                                     <div class="img owl-carousel owl-theme carousel-single">
-                                        <img src="{{ url_for('static', filename='img/4.jpg') }}" alt="">
-                                        <img src="{{ url_for('static', filename='img/5.jpg') }}" alt="">
-                                        <img src="{{ url_for('static', filename='img/2.jpg') }}" alt="">
+                                        <img src="{{ url_for('static', filename='img/chatbot_caption.png') }}" alt="">
+                                        <img src="{{ url_for('static', filename='img/MT_caption.png') }}" alt="">
+                                        <img src="{{ url_for('static', filename='img/text-analysis_caption.png') }}" alt="">
+                                        <img src="{{ url_for('static', filename='img/KB_caption.png') }}" alt="">
+                                        <img src="{{ url_for('static', filename='img/i18n_caption.png') }}" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -334,11 +337,12 @@
                                 </div>
                                 <div class="col-lg-6 image">
                                     <div class="img">
-                                        <img src="{{ url_for('static', filename='img/2.jpg') }}" alt="">
+                                        <img style="padding: 13.46% 0; background-color: #FFFCFF;" src="{{ url_for('static', filename='img/LSTM-big.gif') }}" alt="">
                                     </div>
                                 </div>
                             </div>
                         </div>
+                        <!--
                         <div class="tab-pane fade" id="tab3" role="tabpanel" aria-labelledby="pills-home-tab">
                             <div class="row">
                                 <div class="left col-lg-6">
@@ -360,6 +364,7 @@
                                 </div>
                             </div>
                         </div>
+                        -->
                     </div>
                 </div>
             </div>
@@ -581,8 +586,8 @@
 
             <div class="curve curve-top"></div>
             <div class="curve curve-bottom"></div>
-        </div>
-
+        </div>  -->
+        
         <!-- End Why-us ====
         ======================================= -->
 
@@ -1004,7 +1009,7 @@
                             </div>
                         </div>
                     </div>
-
+<!--
                     <div class="col-lg-4">
                         <div class="item">
                             <div class="post-img">
@@ -1024,7 +1029,7 @@
                             </div>
                         </div>
                     </div>
-
+-->
                 </div>
             </div>
         </section>
@@ -1032,22 +1037,29 @@
         <!-- End Blog ====
         ======================================= -->
 
-
         <!-- =====================================
         ==== Start Call-Action -->
 
         <section class="call-action section-padding bg-img bg-fixed" data-overlay-color="5" data-background="{{ url_for('static', filename='img/logo-dark.png') }}">
             <div class="container">
                 <div class="row">
-
                     <div class="col-lg-12">
                         <div class="text-center">
-                            <h2>{{ _('newsletter.title') }}</h2>
-                            <h5>{{ _('newsletter.cta') }}</h5>
-                            <!--<a href="#0" class="">-->
-                                <!--<span>{{ _('newsletter.email') }}</span>-->
-                            <input type="text" name="name" placeholder="{{ _('newsletter.email') }}">
-                            <!--</a>-->
+                            <form class="form" action="{{ url_for('newsletter') }}" method="post">
+                                {{ news_form.hidden_tag() }}
+                                <h2>{{ _('newsletter.title') }}</h2>
+                                <h5>{{ _('newsletter.cta') }}</h5>
+                                <!--<a href="#0" class="">-->
+                                    <!--<span>{{ _('newsletter.email') }}</span>-->
+                                <div class="form-group">
+                                    <input type="email" class="name-input" name="news_email" placeholder="{{ _('newsletter.email') }}" required>
+                                    <!--</a>-->
+                                    <button type="submit" class="btn btn-news"><i class="fa fa-play" style="font-size: 22px"></i></button>
+                                </div>     
+                                {% for error in news_form.news_email.errors %}
+                                    <span style="color: red">{{ error }}</span>
+                                {% endfor %}                 
+                            </form>  
                         </div>
                     </div>
 
@@ -1057,8 +1069,35 @@
 
         <!-- End Call-Action ====
         ======================================= -->
+        
+         <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="text-center">
+                        {% with primary = get_flashed_messages(category_filter=["primary"]) %}
+                            {% if primary %}
+                                {%- for message in primary %}
+                                    <div class="alert alert-primary alert-dismissible" role="alert">
+                                        {{ message }}  
+                                    </div>
+                                {% endfor -%}
+                            {% endif %}
+                        {% endwith %}
 
-
+                        {% with danger = get_flashed_messages(category_filter=["danger"]) %}
+                            {% if danger %}
+                                {%- for message in danger %}
+                                    <div class="alert alert-danger alert-dismissible" role="alert">
+                                        {{ message }}  
+                                    </div>
+                                {% endfor -%}
+                            {% endif %}
+                        {% endwith %}
+                    </div>
+                </div>      
+            </div>
+        </div>
+        
         <!-- =====================================
         ==== Start Contact -->
 
@@ -1106,13 +1145,13 @@
                             <div class="messages"></div>
 
                             <div class="controls">
-                                {% with messages = get_flashed_messages(with_categories=True) %}
-                                    {% if messages %}
-                                        {% for category, message in messages %}
-                                            <div class="alert alert-{{ category }} alert-dismissible" role="alert">
+                                {% with success = get_flashed_messages(category_filter=["success"]) %}
+                                    {% if success %}
+                                        {%- for message in success %}
+                                            <div class="alert alert-success alert-dismissible" role="alert">
                                                 {{ message }}  
                                             </div>
-                                        {% endfor %}
+                                        {% endfor -%}
                                     {% endif %}
                                 {% endwith %}
 
@@ -1163,7 +1202,7 @@
             <div class="container">
                 <!-- Logo -->
                 <a class="logo" href="#">
-                    <img src="{{ url_for('static', filename='img/logo-light.png') }}" alt="logo">
+                    <img style="width: 200px" src="{{ url_for('static', filename='img/logo-light.png') }}" alt="logo">
                 </a>
 
                 <div class="social">

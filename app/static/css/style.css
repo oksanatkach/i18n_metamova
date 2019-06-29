@@ -51,13 +51,13 @@ body {
   color: #000;
   line-height: 1.3;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 16px;
   font-family: 'Rubik', sans-serif;
   overflow-x: hidden !important; }
 
 p {
   font-family: 'Raleway', sans-serif;
-  font-size: 15px;
+  font-size: 18px;
   font-weight: 400;
   color: #999;
   line-height: 1.8;
@@ -129,7 +129,7 @@ a:hover {
   margin-bottom: 80px;
   text-align: center; }
   .section-head h4 {
-    font-size: 30px;
+    font-size: 40px;
     font-weight: 500;
     margin-bottom: 15px; }
     .section-head h4 span {
@@ -332,7 +332,7 @@ a:hover {
   .navbar .icon-bar {
     color: #fff; }
   .navbar .navbar-nav .nav-link {
-    font-size: 13px;
+    font-size: 18px;
     font-weight: 500;
     color: #eee;
     letter-spacing: .5px;
@@ -363,10 +363,19 @@ a:hover {
 
 .logo {
   padding: 15px 0;
-  width: 200px; }
+  /*width: 200px;*/ }
+.logo img {
+  width: 60px; }
 
-.logo .img {
-  width: 80%; }
+.logo p {
+  font-family: Proxima Nova;
+  font-weight: 600;
+  font-size: 30px;
+  text-transform: uppercase;
+  color: black;
+  display: none;
+}
+
 
 /* ----------------------------------------------------------------
      [ End Navbar ]
@@ -389,7 +398,7 @@ a:hover {
     animation-delay: .2s; }
   .header .caption h1 {
     margin: 10px 0;
-    font-size: 65px;
+    font-size: 100px;
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -397,7 +406,7 @@ a:hover {
     animation-delay: .6s;
     font-family: 'Proxima Nova'; }
   .header .caption p {
-    font-size: 16px;
+    font-size: 29px;
     font-weight: 300;
     color: #eee;
     word-spacing: 2px;
@@ -524,11 +533,11 @@ a:hover {
       transition: all .4s; }
   .hero .feat-item h5 {
     font-weight: 500;
-    font-size: 18px;
+    font-size: 25px;
     margin-bottom: 10px; }
   .hero .feat-item h6 {
     color: #FDAC25;
-    font-size: 12px;
+    font-size: 18px;
     font-weight: 400;
     font-style: italic;
     margin-bottom: 20px; }
@@ -562,7 +571,7 @@ a:hover {
     font-weight: bold; }
   .tabs-section .tab-content .left .sub-title {
     color: #777;
-    font-size: 12px;
+    font-size: 16px;
     font-weight: 400;
     margin-bottom: 20px; }
   .tabs-section .tab-content .left .feat li {
@@ -582,7 +591,7 @@ a:hover {
     color: #FDAC25;
     margin-bottom: 15px; }
   .tabs-section .tab-content .left .feat h6 {
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 400; }
 
 .tabs-section .tab-content .image {
@@ -709,10 +718,10 @@ a:hover {
     z-index: -1; }
   .process .item h6 {
     color: #222;
-    font-size: 16px;
+    font-size: 24px;
     margin-bottom: 15px; }
   .process .item p {
-    font-size: 14px;
+    font-size: 16px;
     color: #999; }
 
 /* ----------------------------------------------------------------
@@ -1059,6 +1068,51 @@ a:hover {
      [ End Call-action ]
 -----------------------------------------------------------------*/
 /* ----------------------------------------------------------------
+     [ 15 Newsletter]
+-----------------------------------------------------------------*/
+.btn-news {
+  background-color: #FDAC25;
+  border-radius: 20px;
+  opacity: 0.8; }
+
+.btn-news:hover {
+  opacity: 1; }
+
+.btn-new:active {
+  border: none; }
+
+.fa-play {
+  padding-top: 3px;
+  padding-left: 3px;
+  color: white; }
+
+.name-input {
+  width: 20%;
+  padding: 12px;
+  margin: 8px 8px 0 60px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 25px;
+  box-sizing: border-box;
+  color: white;
+  border: none; }
+
+.alert-primary {
+  margin-top: 10px;
+  background-color: #54a754;
+  color: #fff;
+  border: none; }
+
+.alert-danger {
+  margin-top: 10px;
+  background-color: #C11B17;
+  color: #fff;
+  border: none; }
+
+/* ----------------------------------------------------------------
+     [ End Newsletter ]
+-----------------------------------------------------------------*/
+/* ----------------------------------------------------------------
      [ 14 Start Contact ]
 -----------------------------------------------------------------*/
 .contact .contact-info h5 {
@@ -1107,7 +1161,7 @@ footer {
     line-height: 40px;
     background: #151515;
     color: #999;
-    font-size: 16px;
+    font-size: 30px;
     margin: 15px 5px; }
     footer .social a:hover {
       background-color: #FDAC25;
@@ -1115,7 +1169,7 @@ footer {
   footer p {
     color: #999;
     font-weight: 400;
-    font-size: 12px;
+    font-size: 17px;
     text-transform: uppercase;
     letter-spacing: 2px; }
 
@@ -1160,7 +1214,7 @@ footer {
     background-attachment: scroll !important;
     background-position: center !important; }
     .header .caption h4 {
-      font-size: 30px; }
+      font-size: 40px; }
     .header .caption h1 {
       font-size: 45px;
       line-height: 1.4; }

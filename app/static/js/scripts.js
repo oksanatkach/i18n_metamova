@@ -35,17 +35,20 @@ $(function() {
 
         var bodyScroll = wind.scrollTop(),
             navbar = $(".navbar"),
+            logo_text = $(".navbar .logo> p"),
             logo = $(".navbar .logo> img");
 
         if(bodyScroll > 100){
-
             navbar.addClass("nav-scroll");
             logo.attr('src', 'static/img/logo-dark.png');
+            logo_text.attr('style', 'display: contents;');
+
 
         }else{
 
             navbar.removeClass("nav-scroll");
             logo.attr('src', 'static/img/logo-light.png');
+            logo_text.attr('style', 'display: none;');
 
         }
     });
@@ -231,7 +234,7 @@ $(window).on("load",function (){
 
 // Slider 
 $(document).ready(function() {
-
+    
     var owl = $('.header .owl-carousel');
 
 
@@ -267,3 +270,10 @@ $(document).ready(function() {
     });
 
 });
+
+
+window.setTimeout(function() {
+    $(".alert").fadeTo(700, 0).slideUp(700, function(){
+        $(this).remove(); 
+    });
+}, 5000);

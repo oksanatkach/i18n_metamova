@@ -822,7 +822,7 @@ msgstr "Будьмо <span>на зв'язку</span>"
 #: app/templates/metamova.html:1046
 msgid "newsletter.cta"
 msgstr ""
-"Підписуйтесь на нашу розсилку, аби бути в курсі останніх новин у мовній "
+"Підписуйтесь на нашу розсилку,<br />аби бути в курсі останніх новин у мовній "
 "індустрії"
 
 #: app/templates/metamova.html:1048 app/templates/metamova.html:1049
