@@ -30,7 +30,7 @@
         <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
         <script src="https://kit.fontawesome.com/655a0142f5.js"></script>
 
-
+    
     </head>
 
 
@@ -88,6 +88,17 @@
 			      <li class="nav-item">
 			        <a class="nav-link" href="#" data-scroll-nav="6">{{ _('nav.item_7') }}</a>
 			      </li>
+                  <li class="dropdown">
+                    {% if flag_ua %}
+                        <span class="flag flag-ua"> </span></a>
+                    {% else %}
+                        <span class="flag flag-us"> </span></a>
+                    {% endif %}
+                    <div class="dropdown-content">
+                        <a href="{{ url_for('uk') }}"><span class="flag flag-ua"></span></a>
+                        <a href="{{ url_for('index') }}"><span class="flag flag-us"></span></a>
+                    </div>
+                  </li>
 			    </ul>
 			  </div>
 			</div>

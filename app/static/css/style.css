@@ -366,6 +366,52 @@ a:hover {
   padding: 15px 0;
   width: 200px; }
 
+.dropdown {
+  display: inline-block;
+  margin: 23px auto auto 10px;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 30px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  border-radius: 5px;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+  border-radius: 5px;
+}
+
+.dropdown-content a:hover {background-color: #e0e0e0;}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+  border-radius: 5px;
+}
+
+.flag {
+  display:inline-block;
+  position: relative;
+  width:16px;
+  height:11px;
+  background:url('https://flag-sprites.com/img/flags.png') no-repeat
+}
+
+.flag.flag-ua {
+  background-position:-224px -143px
+}
+
+.flag.flag-us{
+  background-position:0 -154px
+}
 /* ----------------------------------------------------------------
      [ End Navbar ]
 -----------------------------------------------------------------*/

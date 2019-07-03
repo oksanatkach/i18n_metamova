@@ -34,10 +34,11 @@ def pseudo():
 
 @app.route('/uk')
 def uk():
-    form = ContactForm()
-    news_form = Newsletter()
-    with babel_force_locale('uk'):
-        return render_template('metamova.html', form=form, news_form=news_form)
+	flag_ua = '<span id="lang-flag" class="flag flag-ua"> </span> </a>'
+	form = ContactForm()
+	news_form = Newsletter()
+	with babel_force_locale('uk'):
+		return render_template('metamova.html', flag_ua=flag_ua, form=form, news_form=news_form)
 
 
 @app.route('/contact', methods=['GET', 'POST'])
