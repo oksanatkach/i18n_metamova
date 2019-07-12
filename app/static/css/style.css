@@ -77,6 +77,14 @@ a:hover {
   color: inherit;
   text-decoration: none; }
 
+@font-face {
+  font-family: 'Proxima Nova';
+  src: url('/static/fonts/proxima_nova/ProximaNova-Regular.woff2'),
+       url('/static/fonts/proxima_nova/ProximaNova-Regular.woff'),
+       url('/static/fonts/proxima_nova/ProximaNova-Regular.ttf'),
+       url('/static/fonts/proxima_nova/ProximaNova-Regular.eot');
+}
+
 .curve {
   position: absolute;
   z-index: 7; }
@@ -367,7 +375,7 @@ a:hover {
   width: 200px; }
 
 .dropdown {
-  display: inline-block;
+  display: inline;
   margin: 23px auto auto 10px;
 }
 
@@ -396,7 +404,6 @@ a:hover {
   display: block;
   border-radius: 5px;
 }
-
 .flag {
   display:inline-block;
   position: relative;
@@ -439,7 +446,7 @@ a:hover {
     letter-spacing: 1px;
     word-spacing: 2px;
     animation-delay: .6s;
-    font-family: 'Proxima Nova'; }
+    font-family: 'Proxima Nova';}
   .header .caption p {
     font-size: 16px;
     font-weight: 300;
@@ -1244,15 +1251,21 @@ footer {
   .bg-fixed {
     background-attachment: scroll !important; }
   .navbar {
-    padding-left: 15px; }
+    padding-left: 15px;}
     .navbar .navbar-collapse {
-      max-height: 340px;
+      max-height: 440px;
       overflow: auto;
       background: #111;
       text-align: center;
       padding: 10px 0; }
     .navbar .nav-link {
       margin: 10px auto !important; }
+      
+    .navbar .navbar-collapse .dropdown {
+      margin: 15px auto auto auto;}
+    .navbar .navbar-collapse .dropdown:hover {
+      margin-bottom: 90px;} 
+  
   .nav-scroll .navbar-toggler {
     margin-right: 15px; }
   .nav-scroll .navbar-collapse .nav-link {
