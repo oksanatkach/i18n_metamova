@@ -376,18 +376,16 @@ a:hover {
 
 .dropdown {
   display: inline;
-  margin: 23px auto auto 10px;
-}
+  margin: 20px auto auto 10px;}
 
 .dropdown-content {
   display: none;
   position: absolute;
   background-color: #f9f9f9;
-  min-width: 30px;
+  min-width: 55px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
-  border-radius: 5px;
-}
+  border-radius: 5px;}
 
 .dropdown-content a {
   color: black;
@@ -395,30 +393,21 @@ a:hover {
   text-decoration: none;
   display: block;
   text-align: left;
-  border-radius: 5px;
-}
+  border-radius: 5px;}
 
 .dropdown-content a:hover {background-color: #e0e0e0;}
 
 .dropdown:hover .dropdown-content {
   display: block;
-  border-radius: 5px;
-}
-.flag {
-  display:inline-block;
-  position: relative;
-  width:16px;
-  height:11px;
-  background:url('https://flag-sprites.com/img/flags.png') no-repeat
-}
+  border-radius: 5px;}
 
-.flag.flag-ua {
-  background-position:-224px -143px
-}
+.dropdown-flag {
+  width: 25px;
+  height: 25px;}
 
-.flag.flag-us{
-  background-position:0 -154px
-}
+.resp-flag {
+  display: none;}
+
 /* ----------------------------------------------------------------
      [ End Navbar ]
 -----------------------------------------------------------------*/
@@ -1322,4 +1311,14 @@ footer {
     font-size: 25px;
     line-height: 1.4; }
   .works .filtering span {
-    padding: 5px 15px; } }
+    padding: 5px 15px; } 
+  .dropdown { 
+    display: none; }
+  .resp-flag {
+    display: inline-table;
+    width: 30px;
+    height: 22px;
+    margin: auto;} 
+  .resp-flag .nav-item {
+    padding-bottom: 10px;} }
+     

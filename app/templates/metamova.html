@@ -90,17 +90,25 @@
 			      </li>
                   <li class="nav-item">
                       <li class="dropdown">
-                        {% if flag_ua %}
-                            <span class="flag flag-ua"> </span></a>
-                        {% else %}
-                            <span class="flag flag-us"> </span></a>
-                        {% endif %}
+                        <div class="dropdown-flag">
+                            {% if flag_ua %}
+                                <img src="../static/img/ua.png">
+                            {% else %}
+                                <img src="../static/img/us.png">
+                            {% endif %}
+                        </div>
                         <div class="dropdown-content">
-                            <a href="{{ url_for('uk') }}"><span class="flag flag-ua"></span></a>
-                            <a href="{{ url_for('index') }}"><span class="flag flag-us"></span></a>
+                            <a href="{{ url_for('uk') }}" ><img src="../static/img/ua.png"></a>
+                            <a href="{{ url_for('index') }}"><img src="../static/img/us.png"></a>
                         </div>
                       </li>
-                  </li> 
+                  </li>
+                  <div class="resp-flag">
+                    <li class="nav-item">
+                        <a href="{{ url_for('uk') }}"><img src="../static/img/ua.png"></a>
+                        <a href="{{ url_for('index') }}"><img src="../static/img/us.png"></a>
+                    </li>
+                  </div>
 			    </ul>
 			  </div>
 			</div>
